@@ -125,6 +125,7 @@
 -butcher: 876 725 1 Butcher
 -butcher: 1454 2470 1 Butcher
 -gate: 1704 2988 1 Cambria West Gate
++ruins: 1978 1977 1 Camp
 -carpenter: 1977 2606 1 Carpenter
 -carpenter: 1518 1250 1 Carpenter
 -carpenter: 2227 715 1 Carpenter
@@ -261,6 +262,7 @@
 -healer: 1436 2238 1 Healer
 -healer: 762 764 1 Healer
 -healer: 1786 998 1 Healer
+-healer: 1220 2809 1 Healer
 -reagents: 1880 1701 1 Herbalist
 -reagents: 1615 1476 1 Herbalist
 -reagents: 2245 681 1 Herbalist
@@ -336,6 +338,18 @@
 -exit: 1954 1414 1 Mining cave
 -exit: 1971 1399 1 Mining cave
 -exit: 1947 706 1 Mining cave
+-exit: 2460 428 1 Mining cave
+-exit: 2534 758 1 Mining cave
+-exit: 2566 689 1 Mining cave
+-exit: 2620 669 1 Mining cave
+-exit: 2596 661 1 Mining cave
+-exit: 2587 545 1 Mining cave
+-exit: 2639 568 1 Mining cave
+-exit: 2661 656 1 Mining cave
+-exit: 2731 564 1 Mining cave
+-exit: 2793 490 1 Mining cave
+-exit: 2789 469 1 Mining cave
+-exit: 2772 460 1 Mining cave
 -point of interest: 1761 1184 1 Mongbat infested property
 +landmark: 1470 1091 1 Monumental Tree
 -bardic guild: 1803 2956 1 Music shop
@@ -403,6 +417,8 @@
 -shipwright: 664 1503 1 Shipwright
 -shipwright: 3090 559 1 Shipwright
 -point of interest: 1811 663 1 Small brigand camp
+-exit: 2725 611 1 Small cave
+-exit: 2771 557 1 Small mining cave
 -other: 1421 1197 1 Small mining cave with forge
 -other: 2157 775 1 Small watchtower
 -point of interest: 1944 1985 1 Smuggler's hideout cavern
@@ -424,8 +440,7 @@
 -stable: 1807 1657 1 Stables 
 -stable: 740 1447 1 Stables 
 -stairs: 5610 407 1 Stairs down
--stairs: 5565 409 1 stairs up
-+scenic: 1726 2974 1 Stalls
+-market: 1726 2974 1 Stalls
 +scenic: 1384 1307 1 Statue
 +scenic: 1885 2950 1 Sunken buildings
 -bridge: 1379 2546 1 Suspended bridge

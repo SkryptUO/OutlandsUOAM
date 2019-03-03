@@ -175,8 +175,8 @@
 +dungeon: 733 769 0 Mount Petram
 -point of interest: 1343 2039 0 Mountain Meeting Spot
 -point of interest: 473 832 0 Necromancer's Cathedral
--point of interest: 1874 777 0 Necromancer's Lair
--point of interest: 1909 771 0 Necromancer's Swamp
+-point of interest: 1861 783 0 Necromancer's Lair
+-point of interest: 1888 770 0 Necromancer's Swamp
 +caravan: 2132 3220 0 New Buccaneer's Den Caravan
 +dungeon: 1913 2566 0 Newbie Dungeon
 +dungeon: 1950 2527 1 Newbie Dungeon (entrance 2)
@@ -196,7 +196,7 @@
 -point of interest: 1341 1766 0 Orc Fort 1
 -point of interest: 1921 1184 0 Orc Fort 2
 -point of interest: 757 1769 0 Orc Fort 3
-+dungeon: 1220 2809 0 Ossuary
++dungeon: 1209 2816 0 Ossuary
 +town: 3047 560 0 Outpost
 +moongate: 2974 611 0 Outpost Moongate
 +caravan: 2800 562 0 Outpost Passage Caravan
@@ -276,6 +276,7 @@
 -point of interest: 838 3154 0 Volcano 2
 -bridge: 1753 1168 1 Water Crossing
 -bridge: 1730 1185 1 Water Crossing
++scenic: 1488 2982 1 Waterfall
 -bridge: 2070 986 1 Waterway crossing
 -bridge: 1669 1206 1 Waterway crossing
 -arms: 1670 1519 1 Weaponsmith
