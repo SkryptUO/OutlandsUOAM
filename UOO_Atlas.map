@@ -32,9 +32,9 @@
 -point of interest: 1400 2744 0 Cambrian Excavation
 -point of interest: 2081 3060 0 Cambrian Lighthouse
 +scenic: 1461 2448 0 Cathedral
+-point of interest: 1210 2067 0 Cathedral Ruins
 -point of interest: 1130 2097 0 Cathedral St Francis
--point of interest: 1210 2067 0 Cathedral St Francis Ruins
-+dungeon: 2745 369 0 Cavernam
++dungeon: 2726 374 0 Cavernam
 +shrine: 848 549 0 Chaos Shrine
 -point of interest: 2114 2010 0 Citadel
 +scenic: 1183 1817 1 Closed entrance

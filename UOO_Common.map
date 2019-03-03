@@ -9,7 +9,6 @@
 -reagents: 1907 1700 1 Alchemist
 -reagents: 761 1486 1 Alchemist
 -reagents: 884 715 1 Alchemist
--guild: 1689 1444 1 All GUILDS
 +scenic: 1668 2813 1 Altar
 +scenic: 1384 1445 1 Altar
 -market: 2166 742 1 Andaria Market (empty)
@@ -420,7 +419,7 @@
 -gate: 1609 1030 1 Secondary entrance
 -exit: 1803 3125 1 Secret entrance to Cambria
 -exit: 1783 3088 1 Secret exit from Cambria
--other: 1665 1478 1 Shear Delight - Prevalian Stylist
+-merchants guild: 1665 1478 1 Shear Delight - Prevalian Stylist
 -other: 1643 3105 1 Sheep Pen
 -other: 1417 2458 1 Sheeps
 +scenic: 1616 2721 1 Shipwreck
@@ -439,6 +438,7 @@
 -other: 1421 1197 1 Small mining cave with forge
 -other: 2157 775 1 Small watchtower
 -point of interest: 1944 1985 1 Smuggler's hideout cavern
+-guild: 1689 1444 1 Society House
 -sorcerers guild: 1708 2900 1 Sorcerer's Guild
 -gate: 1569 1584 1 South-West Gate
 -stable: 1935 2608 1 Stable
