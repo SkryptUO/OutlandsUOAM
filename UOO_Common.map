@@ -17,6 +17,7 @@
 -other: 789 1426 1 Archery contest
 -other: 1618 1544 1 Architect
 -other: 2018 2239 1 Architect
+-other: 877 722 1 Architect
 -warriors guild: 1911 2635 1 Arena
 +landmark: 1729 1526 1 Arena
 +landmark: 2099 718 1 Arena
@@ -58,7 +59,6 @@
 +scenic: 1251 2414 1 Beautiful beach
 -beekeeper: 1742 3036 1 Beekeeper
 -beekeeper: 1587 1234 1 Beekeeper
--beekeeper: 859 671 1 Beekeeper
 -beekeeper: 1417 2465 1 Beekeeper
 -beekeeper: 1601 2610 1 Beekeeper
 -beekeeper: 1536 1221 1 Beekeepers
@@ -109,6 +109,11 @@
 -bridge: 1953 1864 1 Bridge
 -bridge: 1412 1552 1 Bridge
 -bridge: 1178 1618 1 Bridge
+-bridge: 895 678 1 Bridge
+-bridge: 848 714 1 Bridge
+-bridge: 898 885 1 Bridge
+-bridge: 814 1157 1 Bridge
+-bridge: 801 706 1 Bridge with gate
 -point of interest: 1795 2177 1 Brigand Outpost
 -other: 1133 1372 1 Brigand outpost
 +scenic: 1943 2870 1 Building under construction
@@ -151,7 +156,7 @@
 -tavern: 1714 3029 1 Cook
 -baker: 1610 2572 1 Cook
 -baker: 1623 2590 1 Cook
--healer: 893 736 1 Corpse Creek Healer
+-merchants guild: 873 747 1 Corpse Creek Stylist (donation)
 -customs: 3083 531 1 Customs (Mapmaker)
 -docks: 1701 1620 1 Dockmaster
 -docks: 1918 3099 1 Dockmaster
@@ -171,6 +176,7 @@
 -docks: 2173 814 1 Dockmaster
 -docks: 2257 700 1 Dockmaster
 -docks: 1641 2561 1 Dockmaster
+-docks: 822 743 1 Dockmaster
 -docks: 3110 531 1 Dockmaster and Fisherman
 -docks: 2152 801 1 Docks
 -docks: 2046 2207 1 Docks
@@ -226,6 +232,7 @@
 -fishermans guild: 1887 3081 1 Fisherman's Guild
 -bowyer: 2199 754 1 Fletcher
 -other: 1975 1394 1 Forge and Anvil
+-other: 834 727 1 Forge and Anvil
 -other: 2122 845 1 Fortification
 -other: 2148 679 1 Gallows
 -warriors guild: 1570 1485 1 Garrison
@@ -252,6 +259,11 @@
 -gate: 1648 2583 1 Gate
 -gate: 1607 2605 1 Gate
 -gate: 1591 2573 1 Gate
+-gate: 1406 1267 1 Gate
+-gate: 1407 1254 1 Gate
+-gate: 1387 1275 1 Gate
+-gate: 937 694 1 Gate
+-gate: 1025 810 1 Gate
 -gate: 1574 1144 1 Gate to King's Domain
 +scenic: 1756 2857 1 Gladiator's Arena
 -point of interest: 2012 771 1 Gladiators
@@ -274,6 +286,7 @@
 -healer: 762 764 1 Healer
 -healer: 1786 998 1 Healer
 -healer: 1220 2809 1 Healer
+-healer: 911 717 1 Healer
 -reagents: 1880 1701 1 Herbalist
 -reagents: 1615 1476 1 Herbalist
 -reagents: 2245 681 1 Herbalist
@@ -307,9 +320,11 @@
 -exit: 1250 1168 1 Large mining cave w zombies
 -library: 680 1517 1 Library
 -library: 1718 1455 1 Library
+-bridge: 741 611 1 Log bridge
 -point of interest: 1938 806 1 Logging camp
 -point of interest: 1970 762 1 Logging camp
 -bridge: 1801 1591 1 Long Bridge
+-other: 908 671 1 Lookout Tower
 -carpenter: 2100 2314 1 Lumberjack
 -carpenter: 1999 2574 1 Lumberjack
 -carpenter: 1882 2557 1 Lumberjack
@@ -336,6 +351,7 @@
 -library: 2174 793 1 Mapmaker
 -library: 1757 3017 1 Mapmaker
 -library: 1984 1693 1 Mapmaker
+-library: 919 670 1 Mapmaker
 -tavern: 2172 777 1 Marketplace
 +scenic: 1754 2918 1 Meeting Hall
 -merchants guild: 1656 1621 1 Merchant's Guild
@@ -364,6 +380,9 @@
 -exit: 2772 460 1 Mining cave
 -exit: 1546 2701 1 Mining cave
 -exit: 1569 2682 1 Mining cave
+-exit: 1298 1129 1 Mining cave
+-exit: 1316 1145 1 Mining cave
+-exit: 1348 1198 1 Mining cave
 -point of interest: 1761 1184 1 Mongbat infested property
 +landmark: 1470 1091 1 Monumental Tree
 -bardic guild: 1803 2956 1 Music shop
@@ -378,6 +397,7 @@
 +scenic: 1645 1492 1 Pavilion
 -beekeeper: 1394 1230 1 Peach Orchard
 -beekeeper: 1390 1200 1 Pear Orchard
+-shipwright: 825 734 1 Pirate Shipyard
 -baker: 1680 1622 1 Prevalia Bakery on Docks
 +scenic: 1399 1518 1 Prevalia defenses
 -fishermans guild: 1668 1618 1 Prevalia Fish Market
@@ -419,7 +439,7 @@
 -gate: 1609 1030 1 Secondary entrance
 -exit: 1803 3125 1 Secret entrance to Cambria
 -exit: 1783 3088 1 Secret exit from Cambria
--merchants guild: 1665 1478 1 Shear Delight - Prevalian Stylist
+-merchants guild: 1665 1478 1 Shear Delight - Prevalian Stylist (donation)
 -other: 1643 3105 1 Sheep Pen
 -other: 1417 2458 1 Sheeps
 +scenic: 1616 2721 1 Shipwreck
@@ -503,6 +523,7 @@
 -thieves guild: 755 1416 1 Thief
 -thieves guild: 3067 516 1 Thief
 -thieves guild: 1446 2445 1 Thief
+-thieves guild: 918 678 1 Thief
 -thieves guild: 1640 2597 1 Thief and Begger
 -thieves guild: 1875 3089 1 Thief's manor
 -tinker: 751 1520 1 Tinker
@@ -539,6 +560,7 @@
 -healer: 1953 1748 1 Wandering Healer
 -healer: 1834 1467 1 Wandering Healer
 -warriors guild: 1826 2898 1 Warrior's Guild
+-other: 887 774 1 Watchtower
 -bridge: 2027 1437 1 Water crossing
 -bridge: 1633 2409 1 Water pass
 -bridge: 1643 2442 1 Water pass

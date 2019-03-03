@@ -14,7 +14,7 @@
 -point of interest: 215 1905 0 Andarian Scout Camp
 +terrain: 1779 2395 1 Beach
 -point of interest: 1054 2670 0 Beached Ship
--point of interest: 889 935 0 Black Market Vendor
+-point of interest: 894 935 0 Black Market
 -point of interest: 2491 1072 0 Blackthorn's Fort
 -point of interest: 1974 1046 0 Bonfire
 -bridge: 1579 1695 1 Bridge
@@ -42,6 +42,7 @@
 +town: 892 725 0 Corpse Creek
 +caravan: 887 742 0 Corpse Creek Caravan
 -point of interest: 786 576 0 Corpse Creek Lookout
+-merchants guild: 873 751 1 Corpse Creek Merchant (donation)
 +moongate: 959 818 0 Corpse Creek Moongate
 +landmark: 1898 1602 1 Courthouse
 +dungeon: 3400 3726 0 Darkmire Temple
@@ -62,12 +63,14 @@
 -point of interest: 2227 2888 0 Drowned City
 -point of interest: 1876 2296 0 Druid Cabin
 -point of interest: 1998 1961 0 Druid Circle
++scenic: 858 702 1 Everflowing Blood Creek
 -point of interest: 317 1832 0 Exacvation Site
 -point of interest: 1330 2666 0 Faraonic ruins
 +caravan: 1869 1196 0 Farmlands Caravan
 +scenic: 1323 1981 1 Fishing Hut
 +scenic: 1295 1942 1 Fishing Hut
 +scenic: 1261 1983 1 Fishing Hut
++scenic: 687 531 1 Flower grove
 -point of interest: 1909 1910 0 Forsaken Keep
 -other: 1225 1820 1 Fortification
 -point of interest: 1412 446 0 Frost Daemon Temple
@@ -219,7 +222,7 @@
 +landmark: 1820 1519 0 Prevalia Zoo
 +graveyard: 1854 1449 0 Prevalian Cemetery
 -point of interest: 1895 1788 0 Prevalian Cemetery Crypt
--market: 1598 1523 0 Prevalian merchant
+-merchants guild: 1598 1523 0 Prevalian merchant (donation)
 +landmark: 1158 1092 1 Prevalian Quarry
 +dungeon: 1793 984 0 Pulma
 -point of interest: 1306 1409 0 Ratman Hovel
@@ -272,13 +275,14 @@
 -point of interest: 1007 2222 0 Umbermare fortified village
 +dungeon: 1914 1137 0 Urukton Bluffs
 +shrine: 1167 1494 0 Valor Shrine
--point of interest: 832 1056 0 Vine-Covered Cave
+-point of interest: 835 1063 0 Vine-Covered Cave
 -point of interest: 2043 3236 0 Volcano 1
 -point of interest: 838 3154 0 Volcano 2
 -bridge: 1753 1168 1 Water Crossing
 -bridge: 1730 1185 1 Water Crossing
 -bridge: 1669 1206 1 Water crossing
 +scenic: 1488 2982 1 Waterfall
++scenic: 840 620 1 Waterfall
 -bridge: 2070 986 1 Waterway crossing
 -arms: 1670 1519 1 Weaponsmith
 -point of interest: 618 1235 0 Western Ruins
