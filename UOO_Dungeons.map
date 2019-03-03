@@ -18,6 +18,7 @@
 -bridge: 5964 1107 1 Bridge
 -bridge: 5996 1751 1 Bridge
 -bridge: 6021 1006 1 Bridge
+-bridge: 5511 441 1 Bridge
 +scenic: 5969 1052 1 Campfire
 -stairs: 5849 1618 1 Cave
 +terrain: 6011 593 1 Cavernam Dungeon
@@ -121,6 +122,7 @@
 -exit: 5977 1775 1 Passage
 -exit: 6017 670 1 Passage
 -exit: 6018 652 1 Passage
+-exit: 5632 2794 1 Passage
 +terrain: 5173 1307 1 Pulma Dungeon
 +crimsongate: 5304 1336 1 Pulma Exit [crimsongate]
 +crimsongate: 5348 1317 1 Pulma Exit [crimsongate]
@@ -131,6 +133,7 @@
 -point of interest: 5644 533 1 Skeletal Dragon
 -point of interest: 5804 1284 1 Skeleton room
 -stairs: 5886 246 1 Stairs down (LVL2)
+-stairs: 5610 407 1 Stairs down to LVL2
 -stairs: 5211 1249 1 Stairs down to LVL2
 -stairs: 5251 1959 1 Stairs down to LVL2
 -stairs: 5252 1981 1 Stairs down to LVL2
@@ -160,6 +163,7 @@
 -stairs: 5878 1332 1 Stairs up to LVL1
 -stairs: 5886 340 1 Stairs up to LVL1
 -stairs: 6041 785 1 Stairs up to LVL1
+-stairs: 5608 431 1 Stairs up to LVL1
 -stairs: 5200 737 1 Stairs up to LVL2
 -stairs: 5426 1349 1 Stairs up to LVL2
 -stairs: 5566 2152 1 Stairs up to LVL2

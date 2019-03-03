@@ -1,6 +1,5 @@
 3
 -reagents: 1918 2610 1 Alchemist
--mage: 1756 1419 1 Alchemist
 -reagents: 2245 688 1 Alchemist
 -reagents: 2224 598 1 Alchemist
 -reagents: 1696 2907 1 Alchemist
@@ -9,6 +8,7 @@
 -reagents: 1907 1700 1 Alchemist
 -reagents: 761 1486 1 Alchemist
 -reagents: 884 715 1 Alchemist
+-reagents: 1639 1472 1 Alchemist
 +scenic: 1668 2813 1 Altar
 +scenic: 1384 1445 1 Altar
 -market: 2166 742 1 Andaria Market (empty)
@@ -113,6 +113,7 @@
 -bridge: 848 714 1 Bridge
 -bridge: 898 885 1 Bridge
 -bridge: 814 1157 1 Bridge
+-bridge: 2999 629 1 Bridge
 -bridge: 801 706 1 Bridge with gate
 -point of interest: 1795 2177 1 Brigand Outpost
 -other: 1133 1372 1 Brigand outpost
@@ -143,6 +144,7 @@
 -carpenter: 3062 516 1 Carpenter
 -carpenter: 882 693 1 Carpenter
 -carpenter: 1132 2272 1 Carpenter and Lumberjacks
+-gate: 1765 1478 1 Castle Gate
 -exit: 2025 1959 1 Cave
 -exit: 2007 1948 1 Cave
 -bank: 1614 1501 1 Central Bank of Prevalia
@@ -152,6 +154,7 @@
 -other: 1749 2890 1 Cobbler
 -other: 1488 2433 1 Coffin
 +landmark: 2153 636 1 Conference building
+-bard: 1766 1501 1 Conservatory
 -tavern: 1506 1247 1 Cook
 -tavern: 1714 3029 1 Cook
 -baker: 1610 2572 1 Cook
@@ -189,6 +192,7 @@
 -other: 2121 825 1 Empty house
 -exit: 1676 2809 1 Entrance to Palladin's Tomb
 -other: 3014 581 1 Entrance walls
+-merchants guild: 1667 1481 1 Exchange office
 +scenic: 1808 1130 1 Farm (empty)
 -baker: 1613 1454 1 Farm Vineyard
 -baker: 1953 2570 1 Farmer
@@ -264,9 +268,11 @@
 -gate: 1387 1275 1 Gate
 -gate: 937 694 1 Gate
 -gate: 1025 810 1 Gate
+-gate: 1749 1546 1 Gate
 -gate: 1574 1144 1 Gate to King's Domain
 +scenic: 1756 2857 1 Gladiator's Arena
 -point of interest: 2012 771 1 Gladiators
+-point of interest: 1675 1483 1 The Golden Ingot Casino
 +scenic: 1813 1183 1 Greenhouse and garden
 +landmark: 2165 679 1 Guard tower
 -other: 1854 1200 1 Guardtower
@@ -287,15 +293,16 @@
 -healer: 1786 998 1 Healer
 -healer: 1220 2809 1 Healer
 -healer: 911 717 1 Healer
+-healer: 3409 3707 1 Healer
 -reagents: 1880 1701 1 Herbalist
--reagents: 1615 1476 1 Herbalist
 -reagents: 2245 681 1 Herbalist
 -reagents: 1763 2887 1 Herbalist
+-reagents: 1609 1482 1 Herbalist
 +scenic: 1708 2834 1 Inaccessible area
 -inn: 872 730 1 Inn
 -inn: 2043 2251 1 Inn
 -inn: 1936 2593 1 Inn
--inn: 1657 1450 1 Inn
+-inn: 1641 1452 1 Inn
 -inn: 2159 661 1 Inn
 -inn: 1896 3009 1 Inn
 -inn: 1946 1656 1 Inn
@@ -319,7 +326,7 @@
 +landmark: 2048 722 1 Knight's quarters
 -exit: 1250 1168 1 Large mining cave w zombies
 -library: 680 1517 1 Library
--library: 1718 1455 1 Library
+-library: 1639 1480 1 Library
 -bridge: 741 611 1 Log bridge
 -point of interest: 1938 806 1 Logging camp
 -point of interest: 1970 762 1 Logging camp
@@ -335,8 +342,6 @@
 -carpenter: 1450 2448 1 Lumberjack
 -mage: 1999 2250 1 Mage
 -mage: 1919 2614 1 Mage
--mage: 1603 1481 1 Mage
--mage: 1730 1426 1 Mage
 -mage: 2234 688 1 Mage
 -mage: 2208 599 1 Mage
 -mage: 1760 2981 1 Mage
@@ -345,6 +350,7 @@
 -mage: 755 1495 1 Mage
 -mage: 3037 514 1 Mage
 -mage: 883 713 1 Mage
+-mage: 1610 1474 1 Mage
 -shipwright: 2018 2242 1 Mapmaker
 -library: 1969 2619 1 Mapmaker
 -library: 1933 2655 1 Mapmaker
@@ -390,10 +396,12 @@
 +scenic: 796 1512 1 Observation tower
 -theater: 2237 561 1 Open air Theatre
 -theater: 1762 1517 1 Open air Theatre
++scenic: 1664 1455 1 Oratorium
 +scenic: 1730 2869 1 Oratorium
--painter: 1767 1472 1 Painter (not yet occupied)
 +landmark: 2068 644 1 Palace
 +scenic: 1757 2941 1 Park
+-exit: 1633 1460 1 Passage
+-exit: 1645 1460 1 Passage
 +scenic: 1645 1492 1 Pavilion
 -beekeeper: 1394 1230 1 Peach Orchard
 -beekeeper: 1390 1200 1 Pear Orchard
@@ -402,7 +410,11 @@
 +scenic: 1399 1518 1 Prevalia defenses
 -fishermans guild: 1668 1618 1 Prevalia Fish Market
 -other: 1597 1369 1 Prevalia Guardtower
+-other: 1569 1670 1 Prevalia Guardtower
+-other: 1937 1329 1 Prevalia Guardtower
+-other: 1985 1541 1 Prevalia Guardtower
 -tavern: 1689 1604 1 Prevalia Tavern on Docks
+-merchants guild: 1660 1482 1 Prevalian Stylist (donation)
 -provisioner: 1849 1681 1 Provisioner
 -provisioner: 2019 2210 1 Provisioner
 -provisioner: 1979 2566 1 Provisioner
@@ -436,10 +448,10 @@
 -library: 1698 2892 1 Scribe
 -library: 1730 2946 1 Scribe
 -library: 750 1494 1 Scribe
+-library: 1619 1482 1 Scribe
 -gate: 1609 1030 1 Secondary entrance
 -exit: 1803 3125 1 Secret entrance to Cambria
 -exit: 1783 3088 1 Secret exit from Cambria
--merchants guild: 1665 1478 1 Shear Delight - Prevalian Stylist (donation)
 -other: 1643 3105 1 Sheep Pen
 -other: 1417 2458 1 Sheeps
 +scenic: 1616 2721 1 Shipwreck
@@ -458,7 +470,7 @@
 -other: 1421 1197 1 Small mining cave with forge
 -other: 2157 775 1 Small watchtower
 -point of interest: 1944 1985 1 Smuggler's hideout cavern
--guild: 1689 1444 1 Society House
+-point of interest: 1689 1444 1 Society House
 -sorcerers guild: 1708 2900 1 Sorcerer's Guild
 -gate: 1569 1584 1 South-West Gate
 -stable: 1935 2608 1 Stable
@@ -471,15 +483,18 @@
 -stable: 1521 1176 1 Stable
 -stable: 3034 557 1 Stable
 -stable: 1591 2589 1 Stable
+-stable: 1639 1464 1 Stable
+-other: 1732 1448 1 Stable (empty)
 -stable: 1810 1678 1 Stables
 -stable: 897 693 1 Stables 
 -stable: 2053 2310 1 Stables 
 -stable: 2059 2261 1 Stables 
 -stable: 1807 1657 1 Stables 
 -stable: 740 1447 1 Stables 
--stairs: 5610 407 1 Stairs down
 -market: 1726 2974 1 Stalls
 +scenic: 1384 1307 1 Statue
+-other: 1689 1482 1 Statue
+-other: 1766 1447 1 Statue
 +scenic: 1885 2950 1 Sunken buildings
 +graveyard: 1632 2631 1 Sunken Cemetery
 -bridge: 1379 2546 1 Suspended bridge
@@ -504,7 +519,6 @@
 -tavern: 875 739 1 Tavern
 -tavern: 2023 2294 1 Tavern
 -tavern: 1936 2623 1 Tavern
--tavern: 1638 1475 1 Tavern
 -tavern: 2194 785 1 Tavern
 -tavern: 2246 621 1 Tavern
 -tavern: 1797 3000 1 Tavern
@@ -526,6 +540,7 @@
 -thieves guild: 918 678 1 Thief
 -thieves guild: 1640 2597 1 Thief and Begger
 -thieves guild: 1875 3089 1 Thief's manor
++scenic: 1764 1395 1 Throne Room
 -tinker: 751 1520 1 Tinker
 -tinker: 2004 2184 1 Tinker
 -tinker: 1619 1550 1 Tinker
@@ -553,6 +568,7 @@
 -exit: 1502 2480 1 Tunnel
 -exit: 1921 1063 1 Tunnel under the Orc Fort
 -exit: 1919 1206 1 Tunnel under the Orc Fort
+-exit: 2634 422 1 Underground Norse Fort
 +scenic: 1694 2870 1 Unfinished building
 -other: 1808 3052 1 Unused house
 -healer: 2131 541 1 Wandering Healer
