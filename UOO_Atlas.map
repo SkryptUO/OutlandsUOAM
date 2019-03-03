@@ -15,7 +15,7 @@
 +terrain: 1779 2395 1 Beach
 -point of interest: 1054 2670 0 Beached Ship
 -point of interest: 889 935 0 Black Market Vendor
--point of interest: 2489 1091 0 Blackthorn's Fort
+-point of interest: 2491 1072 0 Blackthorn's Fort
 -point of interest: 1974 1046 0 Bonfire
 -bridge: 1579 1695 1 Bridge
 -bridge: 1802 1060 1 Bridge
@@ -72,6 +72,7 @@
 -other: 1225 1820 1 Fortification
 -point of interest: 1412 446 0 Frost Daemon Temple
 -point of interest: 1811 910 0 Gate Fortress
++landmark: 1365 2709 1 Giant buried Pyramid
 +ruins: 1303 1721 1 Goblin abandoned house
 -other: 1311 1687 1 Goblin Watchtower
 -point of interest: 1092 2265 0 Grasslands of harpies
@@ -166,7 +167,6 @@
 +caravan: 1405 2081 0 Lizardmen Caravan
 -point of interest: 1356 2160 0 Lizardmen Fort
 -point of interest: 2257 2618 0 Lizardmen Scout Camp
--point of interest: 1123 2282 0 Logger's cabin
 +dungeon: 1456 2234 0 The Mausoleum
 +caravan: 1632 1987 0 Midlands Caravan
 -point of interest: 1709 1894 1 Midlands Ruins 1
@@ -242,8 +242,9 @@
 -point of interest: 2022 990 0 Sandbar
 -point of interest: 2364 3068 0 Savage Fort
 -point of interest: 1316 2915 0 Savannah and Wattering Hole
++town: 1613 2583 1 Shelter Haven
 +caravan: 1601 2567 0 Shelter Haven Caravan
-+town: 1955 2619 0 Shelter Island
++town: 1954 2613 0 Shelter Island
 +moongate: 1978 2533 0 Shelter Island Moongate
 -point of interest: 2330 3318 0 Ship in Bay
 -point of interest: 2304 1277 0 Ship in Cave
@@ -276,9 +277,9 @@
 -point of interest: 838 3154 0 Volcano 2
 -bridge: 1753 1168 1 Water Crossing
 -bridge: 1730 1185 1 Water Crossing
+-bridge: 1669 1206 1 Water crossing
 +scenic: 1488 2982 1 Waterfall
 -bridge: 2070 986 1 Waterway crossing
--bridge: 1669 1206 1 Waterway crossing
 -arms: 1670 1519 1 Weaponsmith
 -point of interest: 618 1235 0 Western Ruins
 -point of interest: 1192 1262 0 Western Ruins Brigands 1

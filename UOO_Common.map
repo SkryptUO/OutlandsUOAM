@@ -61,6 +61,7 @@
 -beekeeper: 1587 1234 1 Beekeeper
 -beekeeper: 859 671 1 Beekeeper
 -beekeeper: 1417 2465 1 Beekeeper
+-beekeeper: 1601 2610 1 Beekeeper
 -beekeeper: 1536 1221 1 Beekeepers
 -rogues guild: 1940 2628 1 Beggar
 -rogues guild: 1833 1728 1 Beggar
@@ -103,13 +104,12 @@
 -bridge: 1438 1516 1 Bridge
 -bridge: 1534 1516 1 Bridge
 -bridge: 1987 1414 1 Bridge
--bridge: 2027 1437 1 Bridge
 -bridge: 1176 2344 1 Bridge
--bridge: 1633 2409 1 Bridge
 -bridge: 967 2163 1 Bridge
 -bridge: 1189 2434 1 Bridge
 -bridge: 1953 1864 1 Bridge
 -bridge: 1412 1552 1 Bridge
+-bridge: 1178 1618 1 Bridge
 -point of interest: 1795 2177 1 Brigand Outpost
 -other: 1133 1372 1 Brigand outpost
 +scenic: 1943 2870 1 Building under construction
@@ -150,6 +150,8 @@
 +landmark: 2153 636 1 Conference building
 -tavern: 1506 1247 1 Cook
 -tavern: 1714 3029 1 Cook
+-baker: 1610 2572 1 Cook
+-baker: 1623 2590 1 Cook
 -healer: 893 736 1 Corpse Creek Healer
 -customs: 3083 531 1 Customs (Mapmaker)
 -docks: 1701 1620 1 Dockmaster
@@ -169,6 +171,7 @@
 -docks: 2198 811 1 Dockmaster
 -docks: 2173 814 1 Dockmaster
 -docks: 2257 700 1 Dockmaster
+-docks: 1641 2561 1 Dockmaster
 -docks: 3110 531 1 Dockmaster and Fisherman
 -docks: 2152 801 1 Docks
 -docks: 2046 2207 1 Docks
@@ -208,7 +211,9 @@
 -baker: 1392 2451 1 Farmer
 -baker: 1423 2421 1 Farmer
 -baker: 1409 2474 1 Farmer
+-baker: 1606 2595 1 Farmer
 -baker: 1981 1468 1 Farmer and Sheeps
+-baker: 1590 2606 1 Farmer with sheeps
 -baker: 1617 3113 1 Farmers
 -point of interest: 1270 991 1 Fey Spirits
 -docks: 1951 2631 1 Fisherman
@@ -218,6 +223,7 @@
 -fishermans guild: 2044 2309 1 Fisherman
 -fishermans guild: 1993 1648 1 Fisherman
 -fishermans guild: 2015 1691 1 Fisherman
+-fishermans guild: 1640 2568 1 Fisherman
 -fishermans guild: 1887 3081 1 Fisherman's Guild
 -bowyer: 2199 754 1 Fletcher
 -other: 1975 1394 1 Forge and Anvil
@@ -241,6 +247,12 @@
 -gate: 3078 531 1 Gate
 -gate: 1707 1552 1 Gate
 -gate: 2053 682 1 Gate
+-gate: 1652 1576 1 Gate
+-gate: 1650 1598 1 Gate
+-gate: 1671 1598 1 Gate
+-gate: 1648 2583 1 Gate
+-gate: 1607 2605 1 Gate
+-gate: 1591 2573 1 Gate
 -gate: 1574 1144 1 Gate to King's Domain
 +scenic: 1756 2857 1 Gladiator's Arena
 -point of interest: 2012 771 1 Gladiators
@@ -278,9 +290,10 @@
 -inn: 1946 1621 1 Inn
 -inn: 734 1462 1 Inn
 -inn: 3051 514 1 Inn
+-inn: 1627 2567 1 Inn
 -jeweler: 928 681 1 Jeweler
 -jeweler: 2028 2252 1 Jeweler
--jeweler: 1998 2562 1 Jeweler
+-jeweler: 2001 2562 1 Jeweler
 -jeweler: 1562 1548 1 Jeweler
 -jeweler: 2218 641 1 Jeweler
 -jeweler: 1767 2982 1 Jeweler
@@ -350,6 +363,8 @@
 -exit: 2793 490 1 Mining cave
 -exit: 2789 469 1 Mining cave
 -exit: 2772 460 1 Mining cave
+-exit: 1546 2701 1 Mining cave
+-exit: 1569 2682 1 Mining cave
 -point of interest: 1761 1184 1 Mongbat infested property
 +landmark: 1470 1091 1 Monumental Tree
 -bardic guild: 1803 2956 1 Music shop
@@ -394,6 +409,7 @@
 -other: 1623 1542 1 Real estate broker
 -other: 3059 627 1 Ruins
 +ruins: 2210 2325 1 Ruins
++ruins: 1619 2620 1 Ruins
 -library: 880 715 1 Scribe
 -library: 1896 1725 1 Scribe
 -library: 1999 2244 1 Scribe
@@ -407,6 +423,7 @@
 -other: 1665 1478 1 Shear Delight - Prevalian Stylist
 -other: 1643 3105 1 Sheep Pen
 -other: 1417 2458 1 Sheeps
++scenic: 1616 2721 1 Shipwreck
 -shipwright: 2028 2187 1 Shipwright
 -shipwright: 1974 2623 1 Shipwright
 -shipwright: 1613 1603 1 Shipwright
@@ -433,6 +450,7 @@
 -stable: 1680 3039 1 Stable
 -stable: 1521 1176 1 Stable
 -stable: 3034 557 1 Stable
+-stable: 1591 2589 1 Stable
 -stable: 1810 1678 1 Stables
 -stable: 897 693 1 Stables 
 -stable: 2053 2310 1 Stables 
@@ -443,6 +461,7 @@
 -market: 1726 2974 1 Stalls
 +scenic: 1384 1307 1 Statue
 +scenic: 1885 2950 1 Sunken buildings
++graveyard: 1632 2631 1 Sunken Cemetery
 -bridge: 1379 2546 1 Suspended bridge
 -tailor: 869 731 1 Tailor
 -tailor: 917 691 1 Tailor
@@ -474,6 +493,8 @@
 -tavern: 1950 1598 1 Tavern
 -tavern: 709 1477 1 Tavern
 -tavern: 3045 514 1 Tavern
+-tavern: 1618 2559 1 Tavern
+-tavern: 1630 2598 1 Tavern
 -butcher: 792 1531 1 Terran Butcher
 -thieves guild: 1941 2591 1 Thief
 -thieves guild: 2183 738 1 Thief
@@ -482,6 +503,7 @@
 -thieves guild: 755 1416 1 Thief
 -thieves guild: 3067 516 1 Thief
 -thieves guild: 1446 2445 1 Thief
+-thieves guild: 1640 2597 1 Thief and Begger
 -thieves guild: 1875 3089 1 Thief's manor
 -tinker: 751 1520 1 Tinker
 -tinker: 2004 2184 1 Tinker
@@ -494,6 +516,7 @@
 -tinker: 1864 1653 1 Tinker
 -tinker: 3057 528 1 Tinker
 -tinker: 869 725 1 Tinker
+-tinker: 1996 2561 1 Tinker
 -tinkers guild: 1793 2973 1 Tinker's guild
 -other: 1850 2940 1 Tomb
 +scenic: 1384 1339 1 Tomb
@@ -516,6 +539,9 @@
 -healer: 1953 1748 1 Wandering Healer
 -healer: 1834 1467 1 Wandering Healer
 -warriors guild: 1826 2898 1 Warrior's Guild
+-bridge: 2027 1437 1 Water crossing
+-bridge: 1633 2409 1 Water pass
+-bridge: 1643 2442 1 Water pass
 -blacksmith: 2016 2226 1 Weaponsmith
 -weapons guild: 1683 1527 1 Weaponsmith
 -arms: 1909 2984 1 Weaponsmith
