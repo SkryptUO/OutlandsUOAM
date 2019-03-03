@@ -1,50 +1,60 @@
 3
-+goldengate: 5899 89 0 Gold
-+goldengate: 5954 84 0 Gold
-+goldengate: 5987 84 0 Gold
-+crimsongate: 5912 273 0 Red
-+crimsongate: 5957 249 0 Red
-+goldengate: 5180 2006 0 Gold
-+goldengate: 5179 1963 0 Gold
-+goldengate: 5216 1955 0 Gold
-+goldengate: 5203 1923 0 Gold
-+crimsongate: 5381 2086 0 Red
-+crimsongate: 5331 2014 0 Red
-+crimsongate: 5558 2144 0 Red
-+goldengate: 5892 2057 0 Gold
-+goldengate: 5938 2068 0 Gold
-+goldengate: 5959 1977 0 Gold
-+crimsongate: 5623 2493 0 Red
-+crimsongate: 5764 2498 0 Red
-+crimsongate: 5538 2361 0 Red
-+crimsongate: 5820 2321 0 Red
-+goldengate: 5602 2768 0 Gold
-+goldengate: 5629 2768 0 Gold
-+goldengate: 5610 2800 0 Gold
-+goldengate: 5635 2819 0 Gold
-+crimsongate: 5639 2888 0 Red
-+crimsongate: 5690 2885 0 Red
-+goldengate: 5541 524 0 Gold
-+crimsongate: 5601 517 0 Red
-+goldengate: 5792 1701 0 Gold
-+goldengate: 5828 1701 0 Gold
-+goldengate: 5840 1728 0 Gold
-+crimsongate: 5832 1556 0 Red
-+crimsongate: 5967 1679 0 Red
-+goldengate: 5618 723 0 Gold
-+goldengate: 5588 717 0 Gold
-+goldengate: 5626 689 0 Gold
-+crimsongate: 5370 749 0 Red
-+crimsongate: 5497 744 0 Red
-+crimsongate: 5245 690 0 Red
-+goldengate: 5166 1328 0 Gold
-+goldengate: 5195 1351 0 Gold
-+goldengate: 5217 1302 0 Gold
-+crimsongate: 5304 1336 0 Red
-+crimsongate: 5348 1317 0 Red
-+crimsongate: 5429 1269 0 Red
-+goldengate: 5926 1326 0 Gold
-+goldengate: 5926 1351 0 Gold
-+goldengate: 5870 1310 0 Gold
-+crimsongate: 5683 1279 0 Red
-+crimsongate: 5724 1333 0 Red
++crimsongate: 5245 690 1 [GATE] Mausoleum Exit [crimsongate]
++crimsongate: 5304 1336 1 [GATE] Pulma Exit [crimsongate]
++crimsongate: 5331 2014 1 [GATE] Darkmire Exit [crimsongate]
++crimsongate: 5348 1317 1 [GATE] Pulma Exit [crimsongate]
++crimsongate: 5370 749 1 [GATE] Mausoleum Exit [crimsongate]
++crimsongate: 5381 2086 1 [GATE] Darkmire Exit [crimsongate]
++crimsongate: 5429 1269 1 [GATE] Pulma Exit [crimsongate]
++crimsongate: 5497 744 1 [GATE] Mausoleum Exit [crimsongate]
++crimsongate: 5538 2361 1 [GATE] Inferno Exit [crimsongate]
++crimsongate: 5558 2144 1 [GATE] Darkmire Exit [crimsongate]
++crimsongate: 5601 517 1 [GATE] Newbie Exit [crimsongate]
++crimsongate: 5623 2493 1 [GATE] Inferno Exit [crimsongate]
++crimsongate: 5639 2888 1 [GATE] Mount Petram Exit [crimsongate]
++crimsongate: 5683 1279 1 [GATE] Ossuary Exit [crimsongate]
++crimsongate: 5690 2885 1 [GATE] Mount Petram Exit [crimsongate]
++crimsongate: 5724 1333 1 [GATE] Ossuary Exit [crimsongate]
++crimsongate: 5764 2498 1 [GATE] Inferno Exit [crimsongate]
++crimsongate: 5820 2321 1 [GATE] Inferno Exit [crimsongate]
++crimsongate: 5832 1556 1 [GATE] Nusero Exit [crimsongate]
++crimsongate: 5912 273 1 [GATE] Aegis Keep Exit [crimsongate]
++crimsongate: 5957 249 1 [GATE] Aegis Keep Exit [crimsongate]
++crimsongate: 5967 1679 1 [GATE] Nusero Exit [crimsongate]
++goldengate: 5166 1328 1 [GATE] Pulma Exit [goldengate]
++goldengate: 5179 1963 1 [GATE] Darkmire Exit [goldengate]
++goldengate: 5180 2006 1 [GATE] Darkmire Exit [goldengate]
++goldengate: 5195 1351 1 [GATE] Pulma Exit [goldengate]
++goldengate: 5203 1923 1 [GATE] Darkmire Exit [goldengate]
++goldengate: 5216 1955 1 [GATE] Darkmire Exit [goldengate]
++goldengate: 5217 1302 1 [GATE] Pulma Exit [goldengate]
++goldengate: 5541 524 1 [GATE] Newbie Exit [goldengate]
++goldengate: 5588 717 1 [GATE] Mausoleum Exit [goldengate]
++goldengate: 5602 2768 1 [GATE] Mount Petram Exit [goldengate]
++goldengate: 5610 2800 1 [GATE] Mount Petram Exit [goldengate]
++goldengate: 5618 723 1 [GATE] Mausoleum Exit [goldengate]
++goldengate: 5626 689 1 [GATE] Mausoleum Exit [goldengate]
++goldengate: 5629 2768 1 [GATE] Mount Petram Exit [goldengate]
++goldengate: 5635 2819 1 [GATE] Mount Petram Exit [goldengate]
++goldengate: 5792 1701 1 [GATE] Nusero Exit [goldengate]
++goldengate: 5828 1701 1 [GATE] Nusero Exit [goldengate]
++goldengate: 5840 1728 1 [GATE] Nusero Exit [goldengate]
++goldengate: 5870 1310 1 [GATE] Ossuary Exit [goldengate]
++goldengate: 5892 2057 1 [GATE] Inferno Exit [goldengate]
++goldengate: 5899 89 1 [GATE] Aegis Keep Exit [goldengate]
++goldengate: 5926 1326 1 [GATE] Ossuary Exit [goldengate]
++goldengate: 5926 1351 1 [GATE] Ossuary Exit [goldengate]
++goldengate: 5938 2068 1 [GATE] Inferno Exit [goldengate]
++goldengate: 5954 84 1 [GATE] Aegis Keep Exit [goldengate]
++goldengate: 5959 1977 1 [GATE] Inferno Exit [goldengate]
++goldengate: 5987 84 1 [GATE] Aegis Keep Exit [goldengate]
+-trap: 5421 1976 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
+-trap: 5421 1993 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
+-trap: 5428 1976 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
+-trap: 5428 1993 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
+-trap: 5569 2037 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
+-trap: 5569 2056 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
+-trap: 5731 1024 1 Owen (MAPMAKER) (tier 3) (8 gp  10 hp  1-2 dmg)
+-trap: 5896 2005 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
+-trap: 5924 2016 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
+-trap: 5953 2016 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
