@@ -107,8 +107,10 @@
 -bridge: 1633 2409 1 Bridge
 -bridge: 967 2163 1 Bridge
 -bridge: 1189 2434 1 Bridge
+-bridge: 1953 1864 1 Bridge
+-bridge: 1412 1552 1 Bridge
 -point of interest: 1795 2177 1 Brigand Outpost
--other: 1147 1369 1 Brigand outpost
+-other: 1133 1372 1 Brigand outpost
 +scenic: 1943 2870 1 Building under construction
 +scenic: 1702 2923 1 Building under construction
 -butcher: 1995 2613 1 Butcher
@@ -177,6 +179,7 @@
 -other: 2121 825 1 Empty house
 -exit: 1676 2809 1 Entrance to Palladin's Tomb
 -other: 3014 581 1 Entrance walls
++scenic: 1808 1130 1 Farm (empty)
 -baker: 1613 1454 1 Farm Vineyard
 -baker: 1953 2570 1 Farmer
 -baker: 2110 2313 1 Farmer
@@ -239,7 +242,11 @@
 -gate: 1574 1144 1 Gate to King's Domain
 +scenic: 1756 2857 1 Gladiator's Arena
 -point of interest: 2012 771 1 Gladiators
++scenic: 1813 1183 1 Greenhouse and garden
 +landmark: 2165 679 1 Guard tower
+-other: 1854 1200 1 Guardtower
+-other: 1749 1274 1 Guardtower
++scenic: 1579 1753 1 Guardtower Prevalia defenses
 -healer: 1907 2585 1 Healer
 -healer: 1681 1559 1 Healer
 -healer: 2231 763 1 Healer
@@ -250,6 +257,9 @@
 -healer: 1901 1656 1 Healer
 -healer: 738 1531 1 Healer
 -healer: 3059 569 1 Healer
+-healer: 1436 2238 1 Healer
+-healer: 762 764 1 Healer
+-healer: 1786 998 1 Healer
 -reagents: 1880 1701 1 Herbalist
 -reagents: 1615 1476 1 Herbalist
 -reagents: 2245 681 1 Herbalist
@@ -325,11 +335,11 @@
 -exit: 1954 1414 1 Mining cave
 -exit: 1971 1399 1 Mining cave
 -exit: 1947 706 1 Mining cave
+-point of interest: 1761 1184 1 Mongbat infested property
 +landmark: 1470 1091 1 Monumental Tree
 -bardic guild: 1803 2956 1 Music shop
-+dungeon: 1950 2527 1 New Player Dungeon Entrance 2
 -gate: 1617 1439 1 North Gate
--point of interest: 796 1512 1 Observation tower
++scenic: 796 1512 1 Observation tower
 -theater: 2237 561 1 Open air Theatre
 -theater: 1762 1517 1 Open air Theatre
 +scenic: 1730 2869 1 Oratorium
@@ -342,6 +352,7 @@
 -baker: 1680 1622 1 Prevalia Bakery on Docks
 +scenic: 1399 1518 1 Prevalia defenses
 -fishermans guild: 1668 1618 1 Prevalia Fish Market
+-other: 1597 1369 1 Prevalia Guardtower
 -tavern: 1689 1604 1 Prevalia Tavern on Docks
 +treasure: 1598 1523 1 Prevalian merchant
 -provisioner: 1849 1681 1 Provisioner
@@ -363,6 +374,7 @@
 -other: 1965 1770 1 Ranger
 -bowyer: 1129 2282 1 Ranger
 -bowyer: 1111 2304 1 Ranger
+-other: 1271 1633 1 Ranger
 -library: 1774 3016 1 Real estate and Architect
 -merchants guild: 2211 720 1 Real Estate and Architecture shop
 -other: 1623 1542 1 Real estate broker

@@ -1,60 +1,81 @@
 3
-+crimsongate: 5245 690 1 [GATE] Mausoleum Exit [crimsongate]
-+crimsongate: 5304 1336 1 [GATE] Pulma Exit [crimsongate]
-+crimsongate: 5331 2014 1 [GATE] Darkmire Exit [crimsongate]
-+crimsongate: 5348 1317 1 [GATE] Pulma Exit [crimsongate]
-+crimsongate: 5370 749 1 [GATE] Mausoleum Exit [crimsongate]
-+crimsongate: 5381 2086 1 [GATE] Darkmire Exit [crimsongate]
-+crimsongate: 5429 1269 1 [GATE] Pulma Exit [crimsongate]
-+crimsongate: 5497 744 1 [GATE] Mausoleum Exit [crimsongate]
-+crimsongate: 5538 2361 1 [GATE] Inferno Exit [crimsongate]
-+crimsongate: 5558 2144 1 [GATE] Darkmire Exit [crimsongate]
-+crimsongate: 5601 517 1 [GATE] Newbie Exit [crimsongate]
-+crimsongate: 5623 2493 1 [GATE] Inferno Exit [crimsongate]
-+crimsongate: 5639 2888 1 [GATE] Mount Petram Exit [crimsongate]
-+crimsongate: 5683 1279 1 [GATE] Ossuary Exit [crimsongate]
-+crimsongate: 5690 2885 1 [GATE] Mount Petram Exit [crimsongate]
-+crimsongate: 5724 1333 1 [GATE] Ossuary Exit [crimsongate]
-+crimsongate: 5764 2498 1 [GATE] Inferno Exit [crimsongate]
-+crimsongate: 5820 2321 1 [GATE] Inferno Exit [crimsongate]
-+crimsongate: 5832 1556 1 [GATE] Nusero Exit [crimsongate]
-+crimsongate: 5912 273 1 [GATE] Aegis Keep Exit [crimsongate]
-+crimsongate: 5957 249 1 [GATE] Aegis Keep Exit [crimsongate]
-+crimsongate: 5967 1679 1 [GATE] Nusero Exit [crimsongate]
-+goldengate: 5166 1328 1 [GATE] Pulma Exit [goldengate]
-+goldengate: 5179 1963 1 [GATE] Darkmire Exit [goldengate]
-+goldengate: 5180 2006 1 [GATE] Darkmire Exit [goldengate]
-+goldengate: 5195 1351 1 [GATE] Pulma Exit [goldengate]
-+goldengate: 5203 1923 1 [GATE] Darkmire Exit [goldengate]
-+goldengate: 5216 1955 1 [GATE] Darkmire Exit [goldengate]
-+goldengate: 5217 1302 1 [GATE] Pulma Exit [goldengate]
-+goldengate: 5541 524 1 [GATE] Newbie Exit [goldengate]
-+goldengate: 5588 717 1 [GATE] Mausoleum Exit [goldengate]
-+goldengate: 5602 2768 1 [GATE] Mount Petram Exit [goldengate]
-+goldengate: 5610 2800 1 [GATE] Mount Petram Exit [goldengate]
-+goldengate: 5618 723 1 [GATE] Mausoleum Exit [goldengate]
-+goldengate: 5626 689 1 [GATE] Mausoleum Exit [goldengate]
-+goldengate: 5629 2768 1 [GATE] Mount Petram Exit [goldengate]
-+goldengate: 5635 2819 1 [GATE] Mount Petram Exit [goldengate]
-+goldengate: 5792 1701 1 [GATE] Nusero Exit [goldengate]
-+goldengate: 5828 1701 1 [GATE] Nusero Exit [goldengate]
-+goldengate: 5840 1728 1 [GATE] Nusero Exit [goldengate]
-+goldengate: 5870 1310 1 [GATE] Ossuary Exit [goldengate]
-+goldengate: 5892 2057 1 [GATE] Inferno Exit [goldengate]
-+goldengate: 5899 89 1 [GATE] Aegis Keep Exit [goldengate]
-+goldengate: 5926 1326 1 [GATE] Ossuary Exit [goldengate]
-+goldengate: 5926 1351 1 [GATE] Ossuary Exit [goldengate]
-+goldengate: 5938 2068 1 [GATE] Inferno Exit [goldengate]
-+goldengate: 5954 84 1 [GATE] Aegis Keep Exit [goldengate]
-+goldengate: 5959 1977 1 [GATE] Inferno Exit [goldengate]
-+goldengate: 5987 84 1 [GATE] Aegis Keep Exit [goldengate]
++crimsongate: 5912 273 1 Aegis Keep Exit [crimsongate]
++crimsongate: 5957 249 1 Aegis Keep Exit [crimsongate]
++goldengate: 5899 89 1 Aegis Keep Exit [goldengate]
++goldengate: 5954 84 1 Aegis Keep Exit [goldengate]
++goldengate: 5987 84 1 Aegis Keep Exit [goldengate]
+-bridge: 5996 1751 1 Bridge
+-other: 5849 1618 1 Cave
+-stairs: 5958 1705 1 Dark cave entrace
++crimsongate: 5331 2014 1 Darkmire Exit [crimsongate]
++crimsongate: 5381 2086 1 Darkmire Exit [crimsongate]
++crimsongate: 5558 2144 1 Darkmire Exit [crimsongate]
++goldengate: 5179 1963 1 Darkmire Exit [goldengate]
++goldengate: 5180 2006 1 Darkmire Exit [goldengate]
++goldengate: 5203 1923 1 Darkmire Exit [goldengate]
++goldengate: 5216 1955 1 Darkmire Exit [goldengate]
+-exit: 5933 1771 1 Exit
+-exit: 5942 1498 1 Exit
+-exit: 5748 1658 1 Exit
+-exit: 5780 1728 1 Exit to surface
++crimsongate: 5538 2361 1 Inferno Exit [crimsongate]
++crimsongate: 5623 2493 1 Inferno Exit [crimsongate]
++crimsongate: 5764 2498 1 Inferno Exit [crimsongate]
++crimsongate: 5820 2321 1 Inferno Exit [crimsongate]
++goldengate: 5892 2057 1 Inferno Exit [goldengate]
++goldengate: 5938 2068 1 Inferno Exit [goldengate]
++goldengate: 5959 1977 1 Inferno Exit [goldengate]
++crimsongate: 5245 690 1 Mausoleum Exit [crimsongate]
++crimsongate: 5370 749 1 Mausoleum Exit [crimsongate]
++crimsongate: 5497 744 1 Mausoleum Exit [crimsongate]
++goldengate: 5588 717 1 Mausoleum Exit [goldengate]
++goldengate: 5618 723 1 Mausoleum Exit [goldengate]
++goldengate: 5626 689 1 Mausoleum Exit [goldengate]
++crimsongate: 5639 2888 1 Mount Petram Exit [crimsongate]
++crimsongate: 5690 2885 1 Mount Petram Exit [crimsongate]
++goldengate: 5602 2768 1 Mount Petram Exit [goldengate]
++goldengate: 5610 2800 1 Mount Petram Exit [goldengate]
++goldengate: 5627 2784 1 Mount Petram Exit [goldengate]
++goldengate: 5635 2819 1 Mount Petram Exit [goldengate]
++crimsongate: 5601 517 1 Newbie Exit [crimsongate]
++goldengate: 5541 524 1 Newbie Exit [goldengate]
++crimsongate: 5832 1556 1 Nusero Exit [crimsongate]
++crimsongate: 5967 1679 1 Nusero Exit [crimsongate]
++goldengate: 5789 1702 1 Nusero Exit [goldengate]
++goldengate: 5828 1701 1 Nusero Exit [goldengate]
++goldengate: 5840 1728 1 Nusero Exit [goldengate]
++crimsongate: 5683 1279 1 Ossuary Exit [crimsongate]
++crimsongate: 5724 1333 1 Ossuary Exit [crimsongate]
++goldengate: 5870 1310 1 Ossuary Exit [goldengate]
++goldengate: 5926 1326 1 Ossuary Exit [goldengate]
++goldengate: 5926 1351 1 Ossuary Exit [goldengate]
+-trap: 5731 1024 1 Owen (MAPMAKER) (tier 3) (8 gp  10 hp  1-2 dmg)
+-exit: 5977 1775 1 Passage
+-exit: 5967 1766 1 Passage
+-stairs: 5157 1377 1 Pulma Entrance
++crimsongate: 5304 1336 1 Pulma Exit [crimsongate]
++crimsongate: 5348 1317 1 Pulma Exit [crimsongate]
++crimsongate: 5429 1269 1 Pulma Exit [crimsongate]
++goldengate: 5166 1328 1 Pulma Exit [goldengate]
++goldengate: 5195 1351 1 Pulma Exit [goldengate]
++goldengate: 5217 1302 1 Pulma Exit [goldengate]
+-stairs: 5773 1713 1 Stairs down
+-stairs: 5628 645 1 Stairs down
+-stairs: 5967 161 1 Stairs down
+-stairs: 5162 2021 1 Stairs to surface
+-stairs: 5419 729 1 Stairs up
+-stairs: 5886 340 1 Stairs up
+-stairs: 5570 2867 1 Stairs up
+-stairs: 5873 1627 1 Stairs up
++teleporter: 5774 223 1 Teleporter to Aegis Keep
++teleporter: 5881 95 1 Teleporter to cultist's altar
 -trap: 5421 1976 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5421 1993 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5428 1976 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5428 1993 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5569 2037 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5569 2056 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
--trap: 5731 1024 1 Owen (MAPMAKER) (tier 3) (8 gp  10 hp  1-2 dmg)
 -trap: 5896 2005 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5924 2016 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5953 2016 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
+-other: 5813 1563 1 Tresspassing
