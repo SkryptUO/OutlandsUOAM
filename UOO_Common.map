@@ -1,0 +1,453 @@
+3
+-reagents: 1918 2610 1 Alchemist
+-mage: 1756 1419 1 Alchemist
+-reagents: 2245 688 1 Alchemist
+-reagents: 2224 598 1 Alchemist
+-reagents: 1696 2907 1 Alchemist
+-reagents: 1730 2909 1 Alchemist
+-reagents: 1996 2245 1 Alchemist
+-reagents: 1907 1700 1 Alchemist
+-reagents: 761 1486 1 Alchemist
+-reagents: 884 715 1 Alchemist
+-guild: 1689 1444 1 All GUILDS
+-point of interest: 1668 2813 1 Altar
+-other: 1384 1445 1 Altar
+-beekeeper: 1368 1215 1 Apple Orchard
+-archers guild: 750 1550 1 Archer's guild
+-other: 789 1426 1 Archery contest
+-other: 1618 1544 1 Architect
+-other: 2018 2239 1 Architect
+-warriors guild: 1911 2635 1 Arena
+-point of interest: 1729 1526 1 Arena
++landmark: 2099 718 1 Arena
+-other: 809 1425 1 Arena
+-exit: 1771 2864 1 Arena entrance
+-arms: 2155 601 1 Armorer
+-arms: 1812 2893 1 Armorer and Weaponsmith
+-armourers guild: 1964 2582 1 Armourer
+-armourers guild: 1676 1509 1 Armourer
+-arms: 1927 2986 1 Armourer
+-arms: 2024 2224 1 Armourer
+-arms: 2173 696 1 Armourer Weaponsmith
+-baker: 1600 1549 1 Baker
+-baker: 2172 650 1 Baker
+-baker: 1726 3038 1 Baker
+-baker: 2118 2255 1 Baker
+-baker: 1852 1722 1 Baker
+-baker: 2048 2258 1 Baker 
+-baker: 876 713 1 Baker 
+-baker: 1888 3071 1 Bakery
+-baker: 681 1509 1 Bakery
+-baker: 3060 544 1 Bakery
+-bank: 1956 2583 1 Bank
+-bank: 2187 628 1 Bank
+-bank: 1750 3003 1 Bank
+-bank: 2021 2241 1 Bank
+-bank: 1928 1704 1 Bank
+-bank: 725 1507 1 Bank
+-bank: 3050 545 1 Bank
+-bank: 899 714 1 Bank
+-bard: 1985 2630 1 Bard
+-bard: 2161 620 1 Bard
+-bard: 1803 2937 1 Bard
+-bard: 1863 3015 1 Bard
+-bard: 2018 2252 1 Bard
+-bard: 1773 1526 1 Bard
+-inn: 2025 2307 1 Bay Inn
+-beekeeper: 1742 3036 1 Beekeeper
+-beekeeper: 1587 1234 1 Beekeeper
+-beekeeper: 859 671 1 Beekeeper
+-beekeeper: 1536 1221 1 Beekeepers
+-other: 1940 2628 1 Beggar
+-other: 1833 1728 1 Beggar
+-other: 1820 1544 1 Beggar
+-other: 1836 1628 1 Beggars living under the bridge
+-rogues guild: 1990 2630 1 Begger
+-blacksmith: 1974 2587 1 Blacksmith
+-blacksmith: 1979 2555 1 Blacksmith
+-blacksmith: 1648 1545 1 Blacksmith
+-blacksmith: 1642 1509 1 Blacksmith
+-blacksmith: 2191 700 1 Blacksmith
+-blacksmith: 2157 592 1 Blacksmith
+-blacksmith: 1801 2897 1 Blacksmith
+-blacksmith: 1867 1674 1 Blacksmith
+-blacksmith: 695 1518 1 Blacksmith
+-blacksmith: 3034 539 1 Blacksmith
+-blacksmith: 908 734 1 Blacksmith
+-blacksmith: 2024 2230 1 Blacksmith 
+-bowyer: 1970 2606 1 Bowyer
+-bowyer: 1581 1543 1 Bowyer
+-bowyer: 2200 765 1 Bowyer
+-bowyer: 1799 2916 1 Bowyer
+-bowyer: 2010 2185 1 Bowyer
+-bowyer: 1909 1676 1 Bowyer
+-bowyer: 3062 512 1 Bowyer
+-bridge: 1620 1335 1 Bridge
+-bridge: 1613 1289 1 Bridge
+-bridge: 1353 1047 1 Bridge
+-bridge: 2123 794 1 Bridge
+-bridge: 2263 671 1 Bridge
+-bridge: 2140 671 1 Bridge
+-bridge: 2248 750 1 Bridge
+-bridge: 1636 3139 1 Bridge
+-bridge: 1652 3055 1 Bridge
+-bridge: 1950 3002 1 Bridge
+-bridge: 1694 2987 1 Bridge
+-bridge: 1438 1516 1 Bridge
+-bridge: 1534 1516 1 Bridge
+-point of interest: 1795 2177 1 Brigand Outpost
+-other: 1147 1369 1 Brigand outpost
+-point of interest: 1943 2870 1 Building under construction
+-other: 1702 2923 1 Building under construction
+-butcher: 1995 2613 1 Butcher
+-butcher: 1522 1272 1 Butcher
+-butcher: 2173 642 1 Butcher
+-butcher: 1900 3072 1 Butcher
+-butcher: 1719 3022 1 Butcher
+-butcher: 2171 2204 1 Butcher
+-butcher: 2058 2291 1 Butcher
+-butcher: 1931 1648 1 Butcher
+-butcher: 876 725 1 Butcher
+-gate: 1704 2988 1 Cambria West Gate
+-carpenter: 1977 2606 1 Carpenter
+-carpenter: 1518 1250 1 Carpenter
+-carpenter: 2227 715 1 Carpenter
+-carpenter: 2186 764 1 Carpenter
+-carpenter: 1808 2971 1 Carpenter
+-carpenter: 2003 2180 1 Carpenter
+-carpenter: 1851 1730 1 Carpenter
+-carpenter: 1868 1731 1 Carpenter
+-carpenter: 1598 1203 1 Carpenter
+-carpenter: 678 1481 1 Carpenter
+-carpenter: 3062 516 1 Carpenter
+-carpenter: 882 693 1 Carpenter
+-exit: 2025 1959 1 Cave
+-exit: 2007 1948 1 Cave
+-bank: 1614 1501 1 Central Bank of Prevalia
+-point of interest: 1853 3121 1 City Jail
+-other: 1717 2850 1 Closed gate
+-other: 2191 676 1 Cobbler
+-guild: 1749 2890 1 Cobbler
++landmark: 2153 636 1 Conference building
+-tavern: 1506 1247 1 Cook
+-tavern: 1714 3029 1 Cook
+-healer: 893 736 1 Corpse Creek Healer
+-point of interest: 1898 1602 1 Courthouse
+-customs: 3083 531 1 Customs (Mapmaker)
+-docks: 1701 1620 1 Dockmaster
+-docks: 1918 3099 1 Dockmaster
+-docks: 1933 3081 1 Dockmaster
+-docks: 1926 3049 1 Dockmaster
+-docks: 1947 2886 1 Dockmaster
+-docks: 2040 2179 1 Dockmaster
+-docks: 2036 2212 1 Dockmaster
+-docks: 2011 1603 1 Dockmaster
+-docks: 2014 1643 1 Dockmaster
+-docks: 2017 1659 1 Dockmaster
+-docks: 2017 1676 1 Dockmaster
+-docks: 2023 1693 1 Dockmaster
+-docks: 690 1464 1 Dockmaster
+-docks: 670 1545 1 Dockmaster
+-docks: 2198 811 1 Dockmaster
+-docks: 2173 814 1 Dockmaster
+-docks: 3110 531 1 Dockmaster and Fisherman
+-docks: 2152 801 1 Docks
+-docks: 2046 2207 1 Docks
+-other: 1383 1426 1 Dragon statue
+-point of interest: 1770 2103 1 Drake nests
+-gate: 1809 1489 1 East gate
+-other: 2007 1715 1 Empty animal pen
+-other: 1639 992 1 Empty house
+-other: 2121 825 1 Empty house
+-exit: 1676 2809 1 Entrance to Palladin's Tomb
+-other: 3014 581 1 Entrance walls
+-other: 1613 1454 1 Farm Vineyard
+-baker: 1715 3038 1 Farmer
+-baker: 1875 2629 1 Farmer
+-baker: 1873 2589 1 Farmer
+-baker: 1507 1278 1 Farmer
+-baker: 1392 1220 1 Farmer
+-baker: 2287 654 1 Farmer
+-other: 2277 753 1 Farmer
+-baker: 1657 3153 1 Farmer
+-baker: 1753 3047 1 Farmer
+-baker: 2115 2276 1 Farmer
+-baker: 1950 1777 1 Farmer
+-baker: 805 1399 1 Farmer
+-baker: 1488 1218 1 Farmer
+-baker: 1486 1189 1 Farmer
+-baker: 749 1432 1 Farmer
+-baker: 2301 667 1 Farmer
+-baker: 1617 3113 1 Farmers
+-point of interest: 1270 991 1 Fey Spirits
+-docks: 1951 2631 1 Fisherman
+-fishermans guild: 1886 2648 1 Fisherman
+-fishermans guild: 1878 3013 1 Fisherman
+-fishermans guild: 2021 2196 1 Fisherman
+-fishermans guild: 2044 2309 1 Fisherman
+-fishermans guild: 1993 1648 1 Fisherman
+-fishermans guild: 2015 1691 1 Fisherman
+-fishermans guild: 1887 3081 1 Fisherman's Guild
+-bowyer: 2199 754 1 Fletcher
+-other: 2122 845 1 Fortification
+-warriors guild: 1570 1485 1 Garrison
+-other: 762 1463 1 Garrison
+-other: 1991 1713 1 Garrison building
+-other: 3033 569 1 Garrison building
+-gate: 1711 1488 1 Gate
+-gate: 1867 3127 1 Gate
+-gate: 1997 2225 1 Gate
+-gate: 2071 2243 1 Gate
+-gate: 1795 1707 1 Gate
+-gate: 1954 1713 1 Gate
+-gate: 1955 1700 1 Gate
+-gate: 1976 1738 1 Gate
+-gate: 789 1492 1 Gate
+-gate: 3052 577 1 Gate
+-gate: 3024 524 1 Gate
+-gate: 3078 531 1 Gate
+-gate: 1574 1144 1 Gate to King's Domain
+-point of interest: 1756 2857 1 Gladiator's Arena
++landmark: 2165 679 1 Guard tower
+-healer: 1907 2585 1 Healer
+-healer: 1681 1559 1 Healer
+-healer: 2231 763 1 Healer
+-healer: 2177 599 1 Healer
+-healer: 1696 2941 1 Healer
+-healer: 1845 2906 1 Healer
+-healer: 2017 2262 1 Healer
+-healer: 1901 1656 1 Healer
+-healer: 738 1531 1 Healer
+-healer: 3059 569 1 Healer
+-reagents: 1880 1701 1 Herbalist
+-reagents: 1615 1476 1 Herbalist
+-reagents: 2245 681 1 Herbalist
+-reagents: 1763 2887 1 Herbalist
+-point of interest: 1708 2834 1 Inaccessible area
+-inn: 872 730 1 Inn
+-inn: 2043 2251 1 Inn
+-inn: 1936 2593 1 Inn
+-inn: 1657 1450 1 Inn
+-inn: 2159 661 1 Inn
+-inn: 1896 3009 1 Inn
+-inn: 1946 1656 1 Inn
+-inn: 1946 1621 1 Inn
+-inn: 734 1462 1 Inn
+-inn: 3051 514 1 Inn
+-jeweler: 928 681 1 Jeweler
+-jeweler: 2028 2252 1 Jeweler
+-jeweler: 1998 2562 1 Jeweler
+-jeweler: 1562 1548 1 Jeweler
+-jeweler: 2218 641 1 Jeweler
+-jeweler: 1767 2982 1 Jeweler
+-jeweler: 1872 1649 1 Jeweler
+-jeweler: 1934 1730 1 Jeweler
+-jeweler: 752 1516 1 Jeweler
+-jeweler: 3061 528 1 Jeweler
+-other: 805 1445 1 Jousting Arena
++landmark: 2201 566 1 Keep mansion
+-other: 1573 975 1 King's garden
++landmark: 2048 722 1 Knight's quarters
+-exit: 1250 1168 1 Large mining cave w zombies
+-library: 680 1517 1 Library
+-library: 1718 1455 1 Library
+-point of interest: 1938 806 1 Logging camp
+-bridge: 1801 1591 1 Long Bridge
+-carpenter: 1999 2574 1 Lumberjack
+-other: 1882 2557 1 Lumberjack
+-other: 1524 1246 1 Lumberjack
+-carpenter: 2294 641 1 Lumberjack
+-carpenter: 2168 2211 1 Lumberjack
+-mage: 1999 2250 1 Mage
+-mage: 1919 2614 1 Mage
+-mage: 1603 1481 1 Mage
+-mage: 1730 1426 1 Mage
+-mage: 2234 688 1 Mage
+-mage: 2208 599 1 Mage
+-mage: 1760 2981 1 Mage
+-mage: 1702 2907 1 Mage
+-mage: 1880 1726 1 Mage
+-mage: 755 1495 1 Mage
+-mage: 3037 514 1 Mage
+-mage: 883 713 1 Mage
+-shipwright: 2018 2242 1 Mapmaker
+-library: 1969 2619 1 Mapmaker
+-library: 1933 2655 1 Mapmaker
+-library: 2174 793 1 Mapmaker
+-library: 1757 3017 1 Mapmaker
+-library: 1984 1693 1 Mapmaker
+-tavern: 2172 777 1 Marketplace
+-point of interest: 1754 2918 1 Meeting Hall
+-merchants guild: 1656 1621 1 Merchant's Guild
+-miners guild: 1971 2534 1 Miner
+-miners guild: 1854 3105 1 Miner's Guild
+-exit: 2151 2186 1 Mining cave
+-exit: 2126 2224 1 Mining cave
+-exit: 1750 1864 1 Mining cave
+-exit: 1788 1850 1 Mining cave
+-exit: 1766 1847 1 Mining cave
+-exit: 1918 1450 1 Mining cave
+-exit: 1954 1414 1 Mining cave
+-other: 1470 1091 1 Monumental Tree
+-bardic guild: 1803 2956 1 Music shop
++dungeon: 1950 2527 1 New Player Dungeon Entrance 2
+-gate: 1617 1439 1 North Gate
+-point of interest: 796 1512 1 Observation tower
+-theater: 2237 561 1 Open air Theatre
+-theater: 1762 1517 1 Open air Theatre
+-point of interest: 1730 2869 1 Oratorium
+-painter: 1767 1472 1 Painter (not yet occupied)
++landmark: 2068 644 1 Palace
+-point of interest: 1757 2941 1 Park
+-beekeeper: 1394 1230 1 Peach Orchard
+-beekeeper: 1390 1200 1 Pear Orchard
+-baker: 1680 1622 1 Prevalia Bakery on Docks
+-other: 1399 1518 1 Prevalia defenses
+-fishermans guild: 1668 1618 1 Prevalia Fish Market
+-tavern: 1689 1604 1 Prevalia Tavern on Docks
++treasure: 1598 1523 1 Prevalian merchant
+-provisioner: 1849 1681 1 Provisioner
+-provisioner: 2019 2210 1 Provisioner
+-provisioner: 1979 2566 1 Provisioner
+-provisioner: 1646 1619 1 Provisioner
+-other: 1619 1542 1 Provisioner
+-provisioner: 1622 1547 1 Provisioner
+-provisioner: 2215 764 1 Provisioner
+-provisioner: 1892 3057 1 Provisioner
+-provisioner: 1856 3094 1 Provisioner
+-provisioner: 1673 2919 1 Provisioner
+-provisioner: 1846 1655 1 Provisioner
+-provisioner: 681 1522 1 Provisioner
+-provisioner: 3052 534 1 Provisioner
+-provisioner: 870 723 1 Provisioner
+-other: 1871 2654 1 Ranger
+-other: 2181 2198 1 Ranger
+-other: 1965 1770 1 Ranger
+-library: 1774 3016 1 Real estate and Architect
+-merchants guild: 2211 720 1 Real Estate and Architecture shop
+-other: 1623 1542 1 Real estate broker
+-other: 3059 627 1 Ruins
+-library: 880 715 1 Scribe
+-library: 1896 1725 1 Scribe
+-library: 1999 2244 1 Scribe
+-library: 2219 594 1 Scribe
+-library: 1698 2892 1 Scribe
+-library: 1730 2946 1 Scribe
+-library: 750 1494 1 Scribe
+-gate: 1609 1030 1 Secondary entrance
+-exit: 1803 3125 1 Secret entrance to Cambria
+-exit: 1783 3088 1 Secret exit from Cambria
+-other: 1665 1478 1 Shear Delight - Prevalian Stylist
++scenic: 1643 3105 1 Sheep Pen
+-shipwright: 2028 2187 1 Shipwright
+-shipwright: 1974 2623 1 Shipwright
+-shipwright: 1613 1603 1 Shipwright
+-shipwright: 2219 782 1 Shipwright
+-shipwright: 1897 3088 1 Shipwright
+-shipwright: 1983 1619 1 Shipwright
+-shipwright: 1988 1599 1 Shipwright
+-shipwright: 664 1503 1 Shipwright
+-shipwright: 3090 559 1 Shipwright
+-point of interest: 1811 663 1 Small brigand camp
+-other: 1421 1197 1 Small mining cave with forge
+-other: 2157 775 1 Small watchtower
+-sorcerers guild: 1708 2900 1 Sorcerer's Guild
+-gate: 1569 1584 1 South-West Gate
+-stable: 1935 2608 1 Stable
+-stable: 1591 1481 1 Stable
+-stable: 2127 760 1 Stable
+-stable: 2251 590 1 Stable
+-stable: 2172 661 1 Stable
+-stable: 1808 3033 1 Stable
+-stable: 1680 3039 1 Stable
+-stable: 1521 1176 1 Stable
+-stable: 3034 557 1 Stable
+-stable: 1810 1678 1 Stables
+-stable: 897 693 1 Stables 
+-stable: 2053 2310 1 Stables 
+-stable: 2059 2261 1 Stables 
+-stable: 1807 1657 1 Stables 
+-stable: 740 1447 1 Stables 
+-stairs: 5610 407 1 Stairs down
+-stairs: 5565 409 1 stairs up
+-point of interest: 1726 2974 1 Stalls
+-other: 1974 1663 1 Statue
+-other: 1384 1307 1 Statue
+-point of interest: 1885 2950 1 Sunken buildings
+-tailor: 869 731 1 Tailor
+-tailor: 917 691 1 Tailor
+-tailor: 2010 2178 1 Tailor
+-tailor: 1979 2571 1 Tailor
+-tailor: 1624 1551 1 Tailor
+-tailor: 2178 724 1 Tailor
+-tailor: 1892 3041 1 Tailor
+-tailor: 1755 2981 1 Tailor
+-tailor: 1859 1703 1 Tailor
+-tailor: 748 1515 1 Tailor
+-tailor: 3048 532 1 Tailor
+-tanner: 2045 2293 1 Tanner
+-tanner: 1990 2613 1 Tanner
+-tanner: 2155 731 1 Tanner
+-tanner: 1887 3090 1 Tanner
+-tanner: 789 1541 1 Tanner
+-tanner: 785 1532 1 Tanner
+-tanner: 3047 538 1 Tanner
+-tavern: 875 739 1 Tavern
+-tavern: 2023 2294 1 Tavern
+-tavern: 1936 2623 1 Tavern
+-tavern: 1638 1475 1 Tavern
+-tavern: 2194 785 1 Tavern
+-tavern: 2246 621 1 Tavern
+-tavern: 1797 3000 1 Tavern
+-tavern: 1678 3018 1 Tavern
+-tavern: 1997 2207 1 Tavern
+-tavern: 1950 1598 1 Tavern
+-tavern: 709 1477 1 Tavern
+-tavern: 3045 514 1 Tavern
+-butcher: 792 1531 1 Terran Butcher
+-thieves guild: 1941 2591 1 Thief
+-other: 2183 738 1 Thief
+-other: 2030 2298 1 Thief
+-other: 1930 1668 1 Thief
+-thieves guild: 755 1416 1 Thief
+-thieves guild: 3067 516 1 Thief
+-thieves guild: 1875 3089 1 Thief's manor
+-tinker: 751 1520 1 Tinker
+-tinker: 2004 2184 1 Tinker
+-other: 1619 1550 1 Tinker
+-tinker: 1664 1503 1 Tinker
+-tinker: 2210 660 1 Tinker
+-tinker: 2209 643 1 Tinker
+-tinker: 1801 2971 1 Tinker
+-tinker: 1685 2919 1 Tinker
+-tinker: 1864 1653 1 Tinker
+-tinker: 3057 528 1 Tinker
+-tinker: 869 725 1 Tinker
+-tinkers guild: 1793 2973 1 Tinker's guild
+-other: 1850 2940 1 Tomb
+-other: 1384 1339 1 Tomb
+-other: 1384 1406 1 Tomb
+-other: 1391 1372 1 Tomb entrance
+-other: 1821 2897 1 Training dummies
+-point of interest: 1960 2059 1 Tribal hut
+-exit: 1876 883 1 Tunnel
+-exit: 1862 868 1 Tunnel
+-exit: 2805 573 1 Tunnel
+-exit: 2887 594 1 Tunnel
+-other: 1694 2870 1 Unfinished building
+-other: 1808 3052 1 Unused house
+-healer: 2131 541 1 Wandering Healer
+-healer: 2187 2093 1 Wandering Healer
+-healer: 1953 1748 1 Wandering Healer
+-healer: 1834 1467 1 Wandering Healer
+-warriors guild: 1826 2898 1 Warrior's Guild
+-blacksmith: 2016 2226 1 Weaponsmith
+-weapons guild: 1683 1527 1 Weaponsmith
+-arms: 1909 2984 1 Weaponsmith
+-arms: 1896 1668 1 Weaponsmith
+-arms: 3033 545 1 Weaponsmith
+-other: 754 1533 1 Well
+-gate: 1557 1517 1 West Gate
+-other: 1752 3077 1 Wheat fields
+-carpenter: 1580 1555 1 Woodworker
+-carpenter: 1848 3047 1 Woodworker - Carpenter
