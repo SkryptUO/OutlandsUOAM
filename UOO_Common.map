@@ -74,6 +74,7 @@
 -blacksmith: 695 1518 1 Blacksmith
 -blacksmith: 3034 539 1 Blacksmith
 -blacksmith: 908 734 1 Blacksmith
+-blacksmith: 2169 694 1 Blacksmith
 -blacksmith: 2024 2230 1 Blacksmith 
 -bowyer: 1970 2606 1 Bowyer
 -bowyer: 1581 1543 1 Bowyer
@@ -95,6 +96,8 @@
 -bridge: 1694 2987 1 Bridge
 -bridge: 1438 1516 1 Bridge
 -bridge: 1534 1516 1 Bridge
+-bridge: 1987 1414 1 Bridge
+-bridge: 2027 1437 1 Bridge
 -point of interest: 1795 2177 1 Brigand Outpost
 -other: 1147 1369 1 Brigand outpost
 -point of interest: 1943 2870 1 Building under construction
@@ -150,6 +153,7 @@
 -docks: 670 1545 1 Dockmaster
 -docks: 2198 811 1 Dockmaster
 -docks: 2173 814 1 Dockmaster
+-docks: 2257 700 1 Dockmaster
 -docks: 3110 531 1 Dockmaster and Fisherman
 -docks: 2152 801 1 Docks
 -docks: 2046 2207 1 Docks
@@ -162,6 +166,7 @@
 -exit: 1676 2809 1 Entrance to Palladin's Tomb
 -other: 3014 581 1 Entrance walls
 -other: 1613 1454 1 Farm Vineyard
+-baker: 2110 2313 1 Farmer
 -baker: 1715 3038 1 Farmer
 -baker: 1875 2629 1 Farmer
 -baker: 1873 2589 1 Farmer
@@ -178,6 +183,11 @@
 -baker: 1486 1189 1 Farmer
 -baker: 749 1432 1 Farmer
 -baker: 2301 667 1 Farmer
+-baker: 2546 624 1 Farmer
+-baker: 2506 631 1 Farmer
+-baker: 2444 623 1 Farmer
+-baker: 2471 574 1 Farmer
+-baker: 1981 1468 1 Farmer and Sheeps
 -baker: 1617 3113 1 Farmers
 -point of interest: 1270 991 1 Fey Spirits
 -docks: 1951 2631 1 Fisherman
@@ -189,7 +199,9 @@
 -fishermans guild: 2015 1691 1 Fisherman
 -fishermans guild: 1887 3081 1 Fisherman's Guild
 -bowyer: 2199 754 1 Fletcher
+-other: 1975 1394 1 Forge and Anvil
 -other: 2122 845 1 Fortification
+-other: 2148 679 1 Gallows
 -warriors guild: 1570 1485 1 Garrison
 -other: 762 1463 1 Garrison
 -other: 1991 1713 1 Garrison building
@@ -206,8 +218,11 @@
 -gate: 3052 577 1 Gate
 -gate: 3024 524 1 Gate
 -gate: 3078 531 1 Gate
+-gate: 1707 1552 1 Gate
+-gate: 2053 682 1 Gate
 -gate: 1574 1144 1 Gate to King's Domain
 -point of interest: 1756 2857 1 Gladiator's Arena
+-point of interest: 2012 771 1 Gladiators
 +landmark: 2165 679 1 Guard tower
 -healer: 1907 2585 1 Healer
 -healer: 1681 1559 1 Healer
@@ -252,7 +267,9 @@
 -library: 680 1517 1 Library
 -library: 1718 1455 1 Library
 -point of interest: 1938 806 1 Logging camp
+-point of interest: 1970 762 1 Logging camp
 -bridge: 1801 1591 1 Long Bridge
+-carpenter: 2100 2314 1 Lumberjack
 -carpenter: 1999 2574 1 Lumberjack
 -other: 1882 2557 1 Lumberjack
 -other: 1524 1246 1 Lumberjack
@@ -288,6 +305,8 @@
 -exit: 1766 1847 1 Mining cave
 -exit: 1918 1450 1 Mining cave
 -exit: 1954 1414 1 Mining cave
+-exit: 1971 1399 1 Mining cave
+-exit: 1947 706 1 Mining cave
 -other: 1470 1091 1 Monumental Tree
 -bardic guild: 1803 2956 1 Music shop
 +dungeon: 1950 2527 1 New Player Dungeon Entrance 2
@@ -327,6 +346,7 @@
 -merchants guild: 2211 720 1 Real Estate and Architecture shop
 -other: 1623 1542 1 Real estate broker
 -other: 3059 627 1 Ruins
++ruins: 2210 2325 1 Ruins
 -library: 880 715 1 Scribe
 -library: 1896 1725 1 Scribe
 -library: 1999 2244 1 Scribe
@@ -434,6 +454,8 @@
 -exit: 1862 868 1 Tunnel
 -exit: 2805 573 1 Tunnel
 -exit: 2887 594 1 Tunnel
+-exit: 1921 1063 1 Tunnel under the Orc Fort
+-exit: 1919 1206 1 Tunnel under the Orc Fort
 -other: 1694 2870 1 Unfinished building
 -other: 1808 3052 1 Unused house
 -healer: 2131 541 1 Wandering Healer

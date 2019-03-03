@@ -1,12 +1,9 @@
 3
-+ruins: 1877 2289 1 Druids aggresive
--baker: 2110 2313 1 Farmer
 +ruins: 2171 2223 1 Forest ostard
 +ruins: 1984 2940 1 Fungaloid monster
-+teleporter: 852 1497 1 Good scribe vendor
-+teleporter: 2000 557 1 Honest blacksmith
--carpenter: 2100 2314 1 Lumberjack
-+ruins: 2050 1953 1 Pirates
-+teleporter: 1726 3144 1 Some marked runebooks for public use
-+teleporter: 2057 510 1 Wild horse
-+teleporter: 827 1331 1 A wild horse here
++teleporter: 852 1497 1 Good (scribe vendor)
++teleporter: 2000 557 1 Honest blacksmith (vendor)
++teleporter: 2011 1527 1 Knightly Deals (great vendor)
++teleporter: 1726 3144 1 Runebooks for public use
++ruins: 2057 510 1 Wild horse
++ruins: 827 1331 1 Wild horse
