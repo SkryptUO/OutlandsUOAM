@@ -12,6 +12,7 @@
 -guild: 1689 1444 1 All GUILDS
 +scenic: 1668 2813 1 Altar
 +scenic: 1384 1445 1 Altar
+-market: 2166 742 1 Andaria Market (empty)
 -beekeeper: 1368 1215 1 Apple Orchard
 -archers guild: 750 1550 1 Archer's guild
 -other: 789 1426 1 Archery contest
@@ -24,7 +25,7 @@
 -exit: 1771 2864 1 Arena entrance
 -arms: 2155 601 1 Armorer
 -arms: 1812 2893 1 Armorer and Weaponsmith
--armourers guild: 1964 2582 1 Armourer
+-arms: 1964 2582 1 Armourer
 -armourers guild: 1676 1509 1 Armourer
 -arms: 1927 2986 1 Armourer
 -arms: 2024 2224 1 Armourer
@@ -354,7 +355,6 @@
 -fishermans guild: 1668 1618 1 Prevalia Fish Market
 -other: 1597 1369 1 Prevalia Guardtower
 -tavern: 1689 1604 1 Prevalia Tavern on Docks
-+treasure: 1598 1523 1 Prevalian merchant
 -provisioner: 1849 1681 1 Provisioner
 -provisioner: 2019 2210 1 Provisioner
 -provisioner: 1979 2566 1 Provisioner
@@ -405,6 +405,7 @@
 -point of interest: 1811 663 1 Small brigand camp
 -other: 1421 1197 1 Small mining cave with forge
 -other: 2157 775 1 Small watchtower
+-point of interest: 1944 1985 1 Smuggler's hideout cavern
 -sorcerers guild: 1708 2900 1 Sorcerer's Guild
 -gate: 1569 1584 1 South-West Gate
 -stable: 1935 2608 1 Stable

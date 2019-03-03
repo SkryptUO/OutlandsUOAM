@@ -1,8 +1,7 @@
 3
--point of interest: 1854 1449 0 (((Prevalian Sewers?)))
 +dungeon: 2167 2074 0 Aegis Keep
-+townships: 2188 659 0 Andaria
--point of interest: 2092 529 0 Andaria Cemetary
++town: 2188 659 0 Andaria
++graveyard: 2092 512 0 Andaria Cemetery
 -point of interest: 1967 946 0 Andaria Gate
 +caravan: 1990 918 0 Andaria Gate Caravan
 +moongate: 2333 639 0 Andaria Moongate
@@ -13,6 +12,7 @@
 -point of interest: 1985 454 0 Andaria Ruins 2
 -point of interest: 1938 620 0 Andaria Sacrificial Ruins
 -point of interest: 215 1905 0 Andarian Scout Camp
++terrain: 1779 2395 1 Beach
 -point of interest: 1054 2670 0 Beached Ship
 -point of interest: 889 935 0 Black Market Vendor
 -point of interest: 2489 1091 0 Blackthorn's Fort
@@ -26,7 +26,7 @@
 -point of interest: 1034 1964 0 Burnt Cove
 +caravan: 1126 1952 0 Burnt Cove Caravan
 -point of interest: 1064 1892 0 Burnt Farmlands
-+townships: 1765 2995 0 Cambria
++town: 1765 2995 0 Cambria
 +caravan: 1470 2844 0 Cambria Gate Caravan
 +moongate: 1693 3153 0 Cambria Moongate
 -point of interest: 1400 2744 0 Cambrian Excavation
@@ -39,13 +39,13 @@
 -point of interest: 2114 2010 0 Citadel
 +scenic: 1183 1817 1 Closed entrance
 +shrine: 1131 2988 0 Compassion Shrine
-+townships: 892 725 0 Corpse Creek
++town: 892 725 0 Corpse Creek
 +caravan: 887 742 0 Corpse Creek Caravan
 -point of interest: 786 576 0 Corpse Creek Lookout
 +moongate: 959 818 0 Corpse Creek Moongate
 +landmark: 1898 1602 1 Courthouse
 +dungeon: 3400 3726 0 Darkmire Temple
--point of interest: 1047 3274 0 Deadman Isle
++island: 1038 3291 0 Deadman Isle
 -point of interest: 1289 2833 0 Desert Daemon Altar
 -point of interest: 1175 2702 0 Desert Manor
 -point of interest: 1504 2565 0 Desert Outpost
@@ -57,6 +57,7 @@
 -point of interest: 1356 1345 1 Disgraced Knights tent
 -other: 2002 1869 1 Dock
 +landmark: 1908 1962 1 Double waterfall
++island: 944 2831 1 Dragon Island
 -point of interest: 1824 936 0 Dragon Roost
 -point of interest: 2227 2888 0 Drowned City
 -point of interest: 1876 2296 0 Druid Cabin
@@ -78,10 +79,11 @@
 -point of interest: 1446 2941 0 Hidden Valley
 -point of interest: 1840 2077 0 Hollow Hills
 -point of interest: 1334 620 0 Hollow Snow Tower
++island: 2984 551 1 Honesty Island
 +shrine: 2927 611 0 Honesty Shrine
 +shrine: 1316 1214 0 Honor Shrine
-+townships: 2043 2238 0 Horseshoe Bay
--point of interest: 2110 2170 0 Horseshoe Bay Cemetary
++town: 2043 2238 0 Horseshoe Bay
++graveyard: 2110 2170 0 Horseshoe Bay Cemetery
 +moongate: 2025 2077 0 Horseshoe Bay Moongate
 +caravan: 2229 2240 0 Horseshoe Bay Swamps Caravan
 -houseboat: 1045 2700 1 House Boat (East)
@@ -150,7 +152,7 @@
 -houseboat: 908 2230 1 House Boat (South)
 -houseboat: 988 1068 1 House Boat (South)
 +shrine: 1259 2283 0 Humility Shrine
--point of interest: 1401 2252 0 Humility Swamps
+-point of interest: 1342 2274 0 Humility Swamps
 -point of interest: 1262 961 0 Hunter's Blind 1
 -point of interest: 1338 1913 0 Hunter's Blind 2
 -point of interest: 2174 2207 0 Hunter's Cabin
@@ -185,6 +187,7 @@
 +caravan: 1445 711 0 Northwest Caravan
 -point of interest: 1820 2119 0 Noxious Earth
 +dungeon: 287 1676 0 Nusero
++island: 539 1888 0 Nusero Island
 +caravan: 307 1757 0 Nusero Island Caravan
 -point of interest: 656 1755 0 Nusero Signal Fort
 -point of interest: 1303 2985 0 Oasis
@@ -194,15 +197,15 @@
 -point of interest: 1921 1184 0 Orc Fort 2
 -point of interest: 757 1769 0 Orc Fort 3
 +dungeon: 1220 2809 0 Ossuary
-+townships: 3047 560 0 Outpost
++town: 3047 560 0 Outpost
 +moongate: 2974 611 0 Outpost Moongate
 +caravan: 2800 562 0 Outpost Passage Caravan
 -point of interest: 2151 1158 0 Owen's Cabin
 -point of interest: 989 1106 0 Pool Of Power
-+townships: 1616 1524 0 Prevalia
++town: 1616 1524 0 Prevalia
 -point of interest: 1477 1700 0 Prevalia Bog
 +caravan: 1481 1744 0 Prevalia Bog Caravan
--point of interest: 1909 1798 0 Prevalia Cemetary
++graveyard: 1909 1798 0 Prevalia Cemetery
 -point of interest: 1244 1501 0 Prevalia Dam
 -point of interest: 1189 2396 1 Prevalia Gate
 +caravan: 1204 2358 0 Prevalia Gate Caravan
@@ -214,7 +217,9 @@
 +caravan: 1488 1900 0 Prevalia Signal Ridge Caravan
 -point of interest: 1808 1019 0 Prevalia Waterfall
 +landmark: 1820 1519 0 Prevalia Zoo
--point of interest: 1895 1788 0 Prevalian Cemetary Crypt
++graveyard: 1854 1449 0 Prevalian Cemetery
+-point of interest: 1895 1788 0 Prevalian Cemetery Crypt
+-market: 1598 1523 0 Prevalian merchant
 +landmark: 1158 1092 1 Prevalian Quarry
 +dungeon: 1793 984 0 Pulma
 -point of interest: 1306 1409 0 Ratman Hovel
@@ -238,7 +243,7 @@
 -point of interest: 2364 3068 0 Savage Fort
 -point of interest: 1316 2915 0 Savannah and Wattering Hole
 +caravan: 1601 2567 0 Shelter Haven Caravan
-+townships: 1955 2619 0 Shelter Island
++town: 1955 2619 0 Shelter Island
 +moongate: 1978 2533 0 Shelter Island Moongate
 -point of interest: 2330 3318 0 Ship in Bay
 -point of interest: 2304 1277 0 Ship in Cave
@@ -254,11 +259,13 @@
 +caravan: 1527 548 0 Snow Northwest Caravan
 +shrine: 2282 941 1 Spirituality Shrine
 +scenic: 1974 1663 1 Statue
++terrain: 1677 2630 1 Swamp
++terrain: 2256 2451 1 Swamp
 -point of interest: 951 2100 0 Swamp Point Ruins
 -point of interest: 2631 400 0 Tanner's Northern Fort
 -point of interest: 1194 676 0 Telescope Island
 -point of interest: 2300 3500 0 Terathan Point
-+townships: 735 1507 0 Terran
++town: 735 1507 0 Terran
 +moongate: 865 1570 0 Terran Moongate        
 -point of interest: 3121 3412 0 Tribal Camp
 -point of interest: 1007 2222 0 Umbermare fortified village
