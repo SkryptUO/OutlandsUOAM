@@ -149,7 +149,6 @@
 -exit: 2007 1948 1 Cave
 -bank: 1614 1501 1 Central Bank of Prevalia
 +scenic: 1853 3121 1 City Jail
-+scenic: 1717 2850 1 Closed gate
 -other: 2191 676 1 Cobbler
 -other: 1749 2890 1 Cobbler
 -other: 1488 2433 1 Coffin
@@ -298,7 +297,6 @@
 -reagents: 2245 681 1 Herbalist
 -reagents: 1763 2887 1 Herbalist
 -reagents: 1609 1482 1 Herbalist
-+scenic: 1708 2834 1 Inaccessible area
 -inn: 872 730 1 Inn
 -inn: 2043 2251 1 Inn
 -inn: 1936 2593 1 Inn
