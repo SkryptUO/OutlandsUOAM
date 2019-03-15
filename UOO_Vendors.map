@@ -1,6 +1,15 @@
 3
--market: 2000 557 1 [vendor] Honest Blacksmith
--market: 2011 1527 1 [vendor] Knightly Deals
--market: 2782 526 1 [vendor] Outpost Passage Mall
--market: 2767 415 1 [vendor] Small Stone Workshop
--library: 2981 600 1 Magestic Rune Library & Shop
+-market: 2000 557 1 [Vendor@2019.01.01] Honest Blacksmith
+-market: 2011 1527 1 [Vendor@2019.01.01] Knightly Deals
+-market: 2782 526 1 [Vendor@2019.01.01] Outpost Passage Mall
+-market: 2767 415 1 [Vendor@2019.01.01] Small Stone Workshop
+-merchants guild: 1478 1472 1 [Vendor@2019.03.15] Alchemy, Scribe, Weapons
+-merchants guild: 1474 1524 1 [Vendor@2019.03.15] Armors, Food, Alche, Tools, Arrows
+-merchants guild: 1425 1499 1 [Vendor@2019.03.15] Aspect, Skill scrolls, Maps, Armor
+-merchants guild: 1679 3151 1 [Vendor@2019.03.15] Bows and other weapons
+-merchants guild: 1482 1506 1 [Vendor@2019.03.15] empty
+-merchants guild: 2981 600 1 [Vendor@2019.03.15] Magestic Rune Library & Shop
+-merchants guild: 1491 1488 1 [Vendor@2019.03.15] MCDs, Aspect, Tools, Maps, Runebooks, Feathers
+-merchants guild: 1710 3140 1 [Vendor@2019.03.15] Plants, Weapons, Tools, Aspect, Food, Armor
+-merchants guild: 1467 1502 1 [Vendor@2019.03.15] Weapons
+-merchants guild: 1698 3127 1 [Vendor@2019.03.15] Weapons, Armor, Alche
