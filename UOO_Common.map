@@ -321,6 +321,7 @@
 -other: 805 1445 1 Jousting Arena
 +landmark: 2201 566 1 Keep mansion
 +scenic: 1573 975 1 King's garden
++scenic: 1706 2836 1 King's Manor (under construction)
 +landmark: 2048 722 1 Knight's quarters
 -exit: 1250 1168 1 Large mining cave w zombies
 -library: 680 1517 1 Library
