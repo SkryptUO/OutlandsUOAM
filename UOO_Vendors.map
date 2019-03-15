@@ -1,8 +1,8 @@
 3
--market: 2000 557 1 [Vendor@2019.01.01] Honest Blacksmith
--market: 2011 1527 1 [Vendor@2019.01.01] Knightly Deals
--market: 2782 526 1 [Vendor@2019.01.01] Outpost Passage Mall
--market: 2767 415 1 [Vendor@2019.01.01] Small Stone Workshop
+-merchants guild: 2000 557 1 [Vendor@2019.01.01] Honest Blacksmith
+-merchants guild: 2011 1527 1 [Vendor@2019.01.01] Knightly Deals
+-merchants guild: 2782 526 1 [Vendor@2019.01.01] Outpost Passage Mall
+-merchants guild: 2767 415 1 [Vendor@2019.01.01] Small Stone Workshop
 -merchants guild: 1478 1472 1 [Vendor@2019.03.15] Alchemy, Scribe, Weapons
 -merchants guild: 1474 1524 1 [Vendor@2019.03.15] Armors, Food, Alche, Tools, Arrows
 -merchants guild: 1425 1499 1 [Vendor@2019.03.15] Aspect, Skill scrolls, Maps, Armor
