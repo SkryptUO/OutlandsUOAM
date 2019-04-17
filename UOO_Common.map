@@ -147,6 +147,8 @@
 -gate: 1765 1478 1 Castle Gate
 -exit: 2025 1959 1 Cave
 -exit: 2007 1948 1 Cave
+-exit: 585 1961 1 Cave
+-exit: 600 1947 1 Cave
 -bank: 1614 1501 1 Central Bank of Prevalia
 +scenic: 1853 3121 1 City Jail
 -other: 2191 676 1 Cobbler
@@ -202,7 +204,7 @@
 -baker: 1507 1278 1 Farmer
 -baker: 1392 1220 1 Farmer
 -baker: 2287 654 1 Farmer
--other: 2277 753 1 Farmer
+-baker: 2277 753 1 Farmer
 -baker: 1657 3153 1 Farmer
 -baker: 1753 3047 1 Farmer
 -baker: 2115 2276 1 Farmer
@@ -236,10 +238,9 @@
 -bowyer: 2199 754 1 Fletcher
 -other: 1975 1394 1 Forge and Anvil
 -other: 834 727 1 Forge and Anvil
--other: 2122 845 1 Fortification
++landmark: 2122 845 1 Fortification
 -other: 2148 679 1 Gallows
 -warriors guild: 1570 1485 1 Garrison
--other: 762 1463 1 Garrison
 -other: 1991 1713 1 Garrison building
 -other: 3033 569 1 Garrison building
 -gate: 1711 1488 1 Gate
@@ -268,15 +269,16 @@
 -gate: 937 694 1 Gate
 -gate: 1025 810 1 Gate
 -gate: 1749 1546 1 Gate
+-gate: 1801 1548 1 Gate
 -gate: 1574 1144 1 Gate to King's Domain
 +scenic: 1756 2857 1 Gladiator's Arena
 -point of interest: 2012 771 1 Gladiators
 -point of interest: 1675 1483 1 The Golden Ingot Casino
 +scenic: 1813 1183 1 Greenhouse and garden
 +landmark: 2165 679 1 Guard tower
--other: 1854 1200 1 Guardtower
--other: 1749 1274 1 Guardtower
-+scenic: 1579 1753 1 Guardtower Prevalia defenses
++landmark: 1854 1200 1 Guardtower
++landmark: 1749 1274 1 Guardtower
++landmark: 1579 1753 1 Guardtower Prevalia defenses
 -healer: 1907 2585 1 Healer
 -healer: 1681 1559 1 Healer
 -healer: 2231 763 1 Healer
@@ -388,11 +390,11 @@
 -exit: 1298 1129 1 Mining cave
 -exit: 1316 1145 1 Mining cave
 -exit: 1348 1198 1 Mining cave
+-exit: 1421 1197 1 Mining cave
 -point of interest: 1761 1184 1 Mongbat infested property
 +landmark: 1470 1091 1 Monumental Tree
 -bardic guild: 1803 2956 1 Music shop
 -gate: 1617 1439 1 North Gate
-+scenic: 796 1512 1 Observation tower
 -theater: 2237 561 1 Open air Theatre
 -theater: 1762 1517 1 Open air Theatre
 +scenic: 1664 1455 1 Oratorium
@@ -406,12 +408,12 @@
 -beekeeper: 1390 1200 1 Pear Orchard
 -shipwright: 825 734 1 Pirate Shipyard
 -baker: 1680 1622 1 Prevalia Bakery on Docks
-+scenic: 1399 1518 1 Prevalia defenses
++landmark: 1399 1518 1 Prevalia defenses
 -fishermans guild: 1668 1618 1 Prevalia Fish Market
--other: 1597 1369 1 Prevalia Guardtower
--other: 1569 1670 1 Prevalia Guardtower
--other: 1937 1329 1 Prevalia Guardtower
--other: 1985 1541 1 Prevalia Guardtower
++landmark: 1597 1369 1 Prevalia Guardtower
++landmark: 1569 1670 1 Prevalia Guardtower
++landmark: 1937 1329 1 Prevalia Guardtower
++landmark: 1985 1541 1 Prevalia Guardtower
 -tavern: 1689 1604 1 Prevalia Tavern on Docks
 -merchants guild: 1660 1482 1 Prevalian Stylist (donation)
 -provisioner: 1849 1681 1 Provisioner
@@ -451,7 +453,7 @@
 -gate: 1609 1030 1 Secondary entrance
 -exit: 1803 3125 1 Secret entrance to Cambria
 -exit: 1783 3088 1 Secret exit from Cambria
--other: 1643 3105 1 Sheep Pen
+-baker: 1643 3105 1 Sheep Pen
 -other: 1417 2458 1 Sheeps
 +scenic: 1616 2721 1 Shipwreck
 -shipwright: 2028 2187 1 Shipwright
@@ -466,7 +468,6 @@
 -point of interest: 1811 663 1 Small brigand camp
 -exit: 2725 611 1 Small cave
 -exit: 2771 557 1 Small mining cave
--other: 1421 1197 1 Small mining cave with forge
 -other: 2157 775 1 Small watchtower
 -point of interest: 1944 1985 1 Smuggler's hideout cavern
 -point of interest: 1689 1444 1 Society House
@@ -553,7 +554,7 @@
 -tinker: 869 725 1 Tinker
 -tinker: 1996 2561 1 Tinker
 -tinkers guild: 1793 2973 1 Tinker's guild
--other: 1850 2940 1 Tomb
++scenic: 1850 2940 1 Tomb
 +scenic: 1384 1339 1 Tomb
 +scenic: 1384 1406 1 Tomb
 +scenic: 1391 1372 1 Tomb entrance
@@ -561,12 +562,8 @@
 -point of interest: 1960 2059 1 Tribal hut
 -exit: 1876 883 1 Tunnel
 -exit: 1862 868 1 Tunnel
--exit: 2805 573 1 Tunnel
--exit: 2887 594 1 Tunnel
--exit: 1506 2510 1 Tunnel
--exit: 1502 2480 1 Tunnel
--exit: 1921 1063 1 Tunnel under the Orc Fort
--exit: 1919 1206 1 Tunnel under the Orc Fort
+-stairs: 2887 594 1 Tunnel
+-stairs: 2805 573 1 Tunnel to Honesty Island
 -exit: 2634 422 1 Underground Norse Fort
 +scenic: 1694 2870 1 Unfinished building
 -other: 1808 3052 1 Unused house
@@ -575,7 +572,9 @@
 -healer: 1953 1748 1 Wandering Healer
 -healer: 1834 1467 1 Wandering Healer
 -warriors guild: 1826 2898 1 Warrior's Guild
--other: 887 774 1 Watchtower
++landmark: 796 1512 1 Watchtower
++landmark: 762 1463 1 Watchtower
++landmark: 887 774 1 Watchtower
 -bridge: 2027 1437 1 Water crossing
 -bridge: 1633 2409 1 Water pass
 -bridge: 1643 2442 1 Water pass
