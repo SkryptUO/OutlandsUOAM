@@ -1,16 +1,11 @@
 3
 -merchants guild: 2000 557 1 [Vendor@2019.01.01] Honest Blacksmith
 -merchants guild: 2011 1527 1 [Vendor@2019.01.01] Knightly Deals
--merchants guild: 2782 526 1 [Vendor@2019.01.01] Outpost Passage Mall
 -merchants guild: 2767 415 1 [Vendor@2019.01.01] Small Stone Workshop
--merchants guild: 1478 1472 1 [Vendor@2019.03.15] Alchemy, Scribe, Weapons
 -merchants guild: 1474 1524 1 [Vendor@2019.03.15] Armors, Food, Alche, Tools, Arrows
 -merchants guild: 1679 3151 1 [Vendor@2019.03.15] Bows and other weapons
--merchants guild: 1482 1506 1 [Vendor@2019.03.15] empty
 -merchants guild: 2981 600 1 [Vendor@2019.03.15] Magestic Rune Library & Shop
--merchants guild: 1491 1488 1 [Vendor@2019.03.15] MCDs, Aspect, Tools, Maps, Runebooks, Feathers
 -merchants guild: 1710 3140 1 [Vendor@2019.03.15] Plants, Weapons, Tools, Aspect, Food, Armor
--merchants guild: 1467 1502 1 [Vendor@2019.03.15] Weapons
 -merchants guild: 1698 3127 1 [Vendor@2019.03.15] Weapons, Armor, Alche
 -merchants guild: 2990 458 1 [Vendor@2019.03.24] Alchemy, Scribe, Armors, Plants
 -merchants guild: 3011 457 1 [Vendor@2019.03.24] MCDs, SS, Weapons, Aspect
@@ -27,3 +22,49 @@
 -merchants guild: 1558 1644 1 [Vendor@2019.04.02] The Keg Factory
 -merchants guild: 1558 1619 1 [Vendor@2019.04.02] Various items
 -merchants guild: 1404 1771 1 [Vendor@2019.04.02] Ye Ol' Miner's Shoppe
+-merchants guild: 880 1580 1 [Vendor@2019.04.14] Amyr Terran Shop
+-merchants guild: 1431 2226 1 [Vendor@2019.04.14] Ancestor's Dwelling
+-merchants guild: 2732 514 1 [Vendor@2019.04.14] Andarian Block House
+-merchants guild: 1467 1502 1 [Vendor@2019.04.14] Caravan vendor
+-merchants guild: 876 1487 1 [Vendor@2019.04.14] Caravan Wagon
+-merchants guild: 1482 1506 1 [Vendor@2019.04.14] EMPTY
+-merchants guild: 2700 536 1 [Vendor@2019.04.14] Farland Exports
+-merchants guild: 1478 1472 1 [Vendor@2019.04.14] Golden Bear Mall
+-merchants guild: 882 1528 1 [Vendor@2019.04.14] GOON Windmall
+-merchants guild: 2782 526 1 [Vendor@2019.04.14] Outpost Passage Mall
+-merchants guild: 880 1567 1 [Vendor@2019.04.14] Rekt Shop
+-merchants guild: 1491 1488 1 [Vendor@2019.04.14] Small marble workshop
+-merchants guild: 852 1411 1 [Vendor@2019.04.14] Terran Costco
+-merchants guild: 2893 633 1 [Vendor@2019.04.15] Chumbuket
+-merchants guild: 2984 568 1 [Vendor@2019.04.15] Deathstroke's Shop
+-merchants guild: 2336 583 1 [Vendor@2019.04.19] [HH] Mall
+-merchants guild: 2282 3439 1 [Vendor@2019.04.19] Alibaba-TaoBao
+-merchants guild: 2307 629 1 [Vendor@2019.04.19] Bam Shop
+-merchants guild: 2325 624 1 [Vendor@2019.04.19] Brothers Beard
+-merchants guild: 1719 3177 1 [Vendor@2019.04.19] Buy or Die
+-merchants guild: 1671 3165 1 [Vendor@2019.04.19] Caravan
+-merchants guild: 2309 639 1 [Vendor@2019.04.19] Caravan Wagon
+-merchants guild: 1534 2945 1 [Vendor@2019.04.19] Cottage
+-merchants guild: 1503 2977 1 [Vendor@2019.04.19] Floppy's Abode
+-merchants guild: 1705 3174 1 [Vendor@2019.04.19] Jem
+-merchants guild: 2345 594 1 [Vendor@2019.04.19] Jem Shop
+-merchants guild: 2324 656 1 [Vendor@2019.04.19] Marble Workshop
+-merchants guild: 1719 3183 1 [Vendor@2019.04.19] Minas Tirith
+-merchants guild: 1566 2935 1 [Vendor@2019.04.19] New Shop in Town
+-merchants guild: 1665 3132 1 [Vendor@2019.04.19] Siege Perilous
+-merchants guild: 1499 2877 1 [Vendor@2019.04.19] Slippityfloo
+-merchants guild: 1642 3045 1 [Vendor@2019.04.19] Survivor's Shops
+-merchants guild: 1561 2841 1 [Vendor@2019.04.20] Fieldstone house
+-merchants guild: 1659 2889 1 [Vendor@2019.04.20] Merchant's Guild of Cambria
+-merchants guild: 1666 2981 1 [Vendor@2019.04.23] Cambria Wayside
+-merchants guild: 2386 631 1 [Vendor@2019.04.26] Caravan Wagon
+-merchants guild: 2420 665 1 [Vendor@2019.04.26] Dia's Emporium
+-merchants guild: 2409 632 1 [Vendor@2019.04.26] Small stone workshop
+-merchants guild: 2049 787 1 [Vendor@2019.04.26] We are not gypsies
+-merchants guild: 2768 342 1 [Vendor@2019.04.28] Andarian stone house
+-merchants guild: 1969 2099 1 [Vendor@2019.04.29] Horseshoe bay Vendor mall
+-merchants guild: 1520 1750 1 [Vendor@2019.04.30] Amyr caravan wagon
+-merchants guild: 1954 2182 1 [Vendor@2019.04.30] Good Vendor
+-merchants guild: 2003 2133 1 [Vendor@2019.04.30] Marble Workshop
+-merchants guild: 1940 2100 1 [Vendor@2019.04.30] RUS Trade House
+-merchants guild: 1995 2118 1 [Vendor@2019.04.30] Zanth's Shop

@@ -1,4 +1,5 @@
 3
+-sorcerers guild: 2349 588 1 [HH] Rune Library
 -reagents: 1918 2610 1 Alchemist
 -reagents: 2245 688 1 Alchemist
 -reagents: 2224 598 1 Alchemist
@@ -26,7 +27,6 @@
 -arms: 2155 601 1 Armorer
 -arms: 1812 2893 1 Armorer and Weaponsmith
 -arms: 1964 2582 1 Armourer
--armourers guild: 1676 1509 1 Armourer
 -arms: 1927 2986 1 Armourer
 -arms: 2024 2224 1 Armourer
 -arms: 2173 696 1 Armourer Weaponsmith
@@ -143,6 +143,7 @@
 -carpenter: 678 1481 1 Carpenter
 -carpenter: 3062 516 1 Carpenter
 -carpenter: 882 693 1 Carpenter
+-carpenter: 1848 3047 1 Carpenter
 -carpenter: 1132 2272 1 Carpenter and Lumberjacks
 -gate: 1765 1478 1 Castle Gate
 -exit: 2025 1959 1 Cave
@@ -226,6 +227,7 @@
 -baker: 1590 2606 1 Farmer with sheeps
 -baker: 1617 3113 1 Farmers
 -point of interest: 1270 991 1 Fey Spirits
++scenic: 1227 1736 1 Fire Pit
 -docks: 1951 2631 1 Fisherman
 -fishermans guild: 1886 2648 1 Fisherman
 -fishermans guild: 1878 3013 1 Fisherman
@@ -241,7 +243,6 @@
 +landmark: 2122 845 1 Fortification
 -other: 2148 679 1 Gallows
 -warriors guild: 1570 1485 1 Garrison
--other: 762 1463 1 Garrison
 -other: 1991 1713 1 Garrison building
 -other: 3033 569 1 Garrison building
 -gate: 1711 1488 1 Gate
@@ -270,6 +271,12 @@
 -gate: 937 694 1 Gate
 -gate: 1025 810 1 Gate
 -gate: 1749 1546 1 Gate
+-gate: 1801 1548 1 Gate
+-gate: 1285 1765 1 Gate
+-gate: 1292 1778 1 Gate
+-gate: 1347 1775 1 Gate
+-gate: 1331 1762 1 Gate
+-gate: 1311 1762 1 Gate
 -gate: 1574 1144 1 Gate to King's Domain
 +scenic: 1756 2857 1 Gladiator's Arena
 -point of interest: 2012 771 1 Gladiators
@@ -295,6 +302,7 @@
 -healer: 1220 2809 1 Healer
 -healer: 911 717 1 Healer
 -healer: 3409 3707 1 Healer
+-healer: 2067 3228 1 Healer
 -reagents: 1880 1701 1 Herbalist
 -reagents: 2245 681 1 Herbalist
 -reagents: 1763 2887 1 Herbalist
@@ -374,7 +382,7 @@
 -exit: 1971 1399 1 Mining cave
 -exit: 1947 706 1 Mining cave
 -exit: 2460 428 1 Mining cave
--exit: 2534 758 1 Mining cave
+-exit: 2533 759 1 Mining cave
 -exit: 2566 689 1 Mining cave
 -exit: 2620 669 1 Mining cave
 -exit: 2596 661 1 Mining cave
@@ -391,16 +399,16 @@
 -exit: 1316 1145 1 Mining cave
 -exit: 1348 1198 1 Mining cave
 -exit: 1421 1197 1 Mining cave
+-exit: 2498 731 1 Mining cave
 -point of interest: 1761 1184 1 Mongbat infested property
 +landmark: 1470 1091 1 Monumental Tree
 -bardic guild: 1803 2956 1 Music shop
 -gate: 1617 1439 1 North Gate
-+scenic: 796 1512 1 Observation tower
 -theater: 2237 561 1 Open air Theatre
 -theater: 1762 1517 1 Open air Theatre
-+scenic: 1664 1455 1 Oratorium
 +scenic: 1730 2869 1 Oratorium
 +landmark: 2068 644 1 Palace
+-sorcerers guild: 1510 2836 1 The Palm's Casino RUNE LIBRARY
 +scenic: 1757 2941 1 Park
 -exit: 1633 1460 1 Passage
 -exit: 1645 1460 1 Passage
@@ -416,6 +424,7 @@
 +landmark: 1937 1329 1 Prevalia Guardtower
 +landmark: 1985 1541 1 Prevalia Guardtower
 -tavern: 1689 1604 1 Prevalia Tavern on Docks
++scenic: 1664 1455 1 Prevalian Public Forum
 -merchants guild: 1660 1482 1 Prevalian Stylist (donation)
 -provisioner: 1849 1681 1 Provisioner
 -provisioner: 2019 2210 1 Provisioner
@@ -469,6 +478,7 @@
 -point of interest: 1811 663 1 Small brigand camp
 -exit: 2725 611 1 Small cave
 -exit: 2771 557 1 Small mining cave
+-sorcerers guild: 1726 3144 1 Small Rune Library
 -other: 2157 775 1 Small watchtower
 -point of interest: 1944 1985 1 Smuggler's hideout cavern
 -point of interest: 1689 1444 1 Society House
@@ -563,8 +573,8 @@
 -point of interest: 1960 2059 1 Tribal hut
 -exit: 1876 883 1 Tunnel
 -exit: 1862 868 1 Tunnel
--stairs: 2805 573 1 Tunnel
 -stairs: 2887 594 1 Tunnel
+-stairs: 2805 573 1 Tunnel to Honesty Island
 -exit: 2634 422 1 Underground Norse Fort
 +scenic: 1694 2870 1 Unfinished building
 -other: 1808 3052 1 Unused house
@@ -573,12 +583,14 @@
 -healer: 1953 1748 1 Wandering Healer
 -healer: 1834 1467 1 Wandering Healer
 -warriors guild: 1826 2898 1 Warrior's Guild
++landmark: 796 1512 1 Watchtower
++landmark: 762 1463 1 Watchtower
 +landmark: 887 774 1 Watchtower
 -bridge: 2027 1437 1 Water crossing
 -bridge: 1633 2409 1 Water pass
 -bridge: 1643 2442 1 Water pass
 -blacksmith: 2016 2226 1 Weaponsmith
--weapons guild: 1683 1527 1 Weaponsmith
+-arms: 1683 1527 1 Weaponsmith
 -arms: 1909 2984 1 Weaponsmith
 -arms: 1896 1668 1 Weaponsmith
 -arms: 3033 545 1 Weaponsmith
@@ -586,4 +598,3 @@
 -gate: 1557 1517 1 West Gate
 +scenic: 1752 3077 1 Wheat fields
 -carpenter: 1580 1555 1 Woodworker
--carpenter: 1848 3047 1 Woodworker - Carpenter

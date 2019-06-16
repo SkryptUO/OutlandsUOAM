@@ -92,6 +92,8 @@
 +treasure: 5989 658 1 [chest] 2
 +treasure: 5989 646 1 [chest] 2
 +treasure: 5914 673 1 [chest] 2
++treasure: 5999 585 1 [chest] 2
++treasure: 5912 609 1 [chest] 2
 +treasure: 5952 149 0 [chest] 3
 +treasure: 5886 84 0 [chest] 3
 +treasure: 5932 151 0 [chest] 3
@@ -196,6 +198,9 @@
 +treasure: 5984 503 1 [chest] 3
 +treasure: 5929 545 1 [chest] 3
 +treasure: 5937 654 1 [chest] 3
++treasure: 6020 660 1 [chest] 3
++treasure: 5994 594 1 [chest] 3
++treasure: 5982 600 1 [chest] 3
 +treasure: 5907 222 0 [chest] 4
 +treasure: 5874 233 0 [chest] 4
 +treasure: 5858 224 0 [chest] 4
@@ -227,7 +232,6 @@
 +treasure: 5574 2083 0 [chest] 4
 +treasure: 5607 2130 0 [chest] 4
 +treasure: 5623 2063 0 [chest] 4
-+treasure: 5570 2100 0 [chest] 4
 +treasure: 5576 2029 0 [chest] 4
 +treasure: 5565 1958 0 [chest] 4
 +treasure: 5721 2288 0 [chest] 4
@@ -281,7 +285,6 @@
 +treasure: 5289 1356 0 [chest] 4
 +treasure: 5274 1334 0 [chest] 4
 +treasure: 5280 1258 0 [chest] 4
-+treasure: 5338 1244 0 [chest] 4
 +treasure: 5344 1293 0 [chest] 4
 +treasure: 5332 1290 0 [chest] 4
 +treasure: 5416 1269 0 [chest] 4
@@ -314,6 +317,11 @@
 +treasure: 6028 743 1 [chest] 4
 +treasure: 5982 756 1 [chest] 4
 +treasure: 6047 799 1 [chest] 4
++treasure: 5942 757 1 [chest] 4
++treasure: 5951 1010 1 [chest] 4
++treasure: 5958 987 1 [chest] 4
++treasure: 5338 1241 1 [chest] 4
++treasure: 5570 2100 0 [chest] 4 REMOVED!!!
 +treasure: 5918 294 0 [chest] 5
 +treasure: 5928 284 0 [chest] 5
 +treasure: 5970 267 0 [chest] 5
@@ -323,7 +331,6 @@
 +treasure: 5946 288 0 [chest] 5
 +treasure: 5331 2043 0 [chest] 5
 +treasure: 5557 2063 0 [chest] 5
-+treasure: 5553 2088 0 [chest] 5
 +treasure: 5770 2405 0 [chest] 5
 +treasure: 5789 2529 0 [chest] 5
 +treasure: 5782 2502 0 [chest] 5
@@ -371,6 +378,12 @@
 +treasure: 5247 627 0 [chest] 5
 +treasure: 6053 1042 1 [chest] 5
 +treasure: 6020 1052 1 [chest] 5
++treasure: 5926 1082 1 [chest] 5
++treasure: 5948 1031 1 [chest] 5
++treasure: 5972 963 1 [chest] 5
++treasure: 5984 1007 1 [chest] 5
++treasure: 6035 969 1 [chest] 5
++treasure: 5553 2088 0 [chest] 5 REMOVED !!!
 +treasure: 6043 317 0 [chest] 6
 +treasure: 6031 216 0 [chest] 6
 +treasure: 6041 214 0 [chest] 6
@@ -407,11 +420,13 @@
 +treasure: 5441 1276 0 [chest] 6
 +treasure: 5442 1273 0 [chest] 6
 +treasure: 5476 1270 0 [chest] 6
-+treasure: 5491 1329 0 [chest] 6
 +treasure: 5470 1328 0 [chest] 6
 +treasure: 5209 653 0 [chest] 6
 +treasure: 5221 639 0 [chest] 6
 +treasure: 5282 653 0 [chest] 6
++treasure: 6035 929 1 [chest] 6
++treasure: 5982 909 1 [chest] 6
++treasure: 5485 1334 1 [chest] 6
 +treasure: 5951 370 0 [chest] 7
 +treasure: 5488 2106 0 [chest] 7
 +treasure: 5886 2208 0 [chest] 7
@@ -420,6 +435,7 @@
 +treasure: 5724 1241 0 [chest] 7
 +treasure: 5443 1203 0 [chest] 7
 +treasure: 5234 581 0 [chest] 7
++treasure: 5977 928 1 [chest] 7
 +treasure: 5712 323 0 [chest] 8
 +treasure: 5204 2109 0 [chest] 8
 +treasure: 5800 2163 0 [chest] 8
@@ -428,19 +444,7 @@
 +treasure: 6043 1256 0 [chest] 8
 +treasure: 5144 1424 0 [chest] 8
 +treasure: 5223 832 0 [chest] 8
-+treasure: 5994 594 1 [chest] ?
-+treasure: 5982 600 1 [chest] ?
-+treasure: 5942 757 1 [chest] ?
++treasure: 5852 905 1 [chest] 8
 +treasure: 5855 1094 1 [chest] ?
 +treasure: 5855 1096 1 [chest] ?
-+treasure: 5948 1031 1 [chest] ?
-+treasure: 5926 1082 1 [chest] ?
 +treasure: 6070 1026 1 [chest] ?
-+treasure: 5951 1010 1 [chest] ?
-+treasure: 5958 987 1 [chest] ?
-+treasure: 5852 905 1 [chest] ?
-+treasure: 5972 963 1 [chest] ?
-+treasure: 5977 928 1 [chest] ?
-+treasure: 5982 909 1 [chest] ?
-+treasure: 6035 929 1 [chest] ?
-+treasure: 6035 969 1 [chest] ?

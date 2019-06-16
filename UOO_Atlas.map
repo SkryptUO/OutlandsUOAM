@@ -16,6 +16,7 @@
 -point of interest: 1054 2670 0 Beached Ship
 -point of interest: 894 935 0 Black Market
 -point of interest: 2491 1072 0 Blackthorn's Fort
+-point of interest: 1094 1007 1 Bludchok Orc Fort
 -point of interest: 1974 1046 0 Bonfire
 -bridge: 1579 1695 1 Bridge
 -bridge: 1802 1060 1 Bridge
@@ -39,6 +40,8 @@
 -stairs: 1922 2587 1 Cave tunnel
 -stairs: 1726 2586 1 Cave tunnel
 +dungeon: 2726 374 0 Cavernam
++graveyard: 1454 2256 1 Cemetery
++graveyard: 2230 3216 1 Cemetery
 +shrine: 848 549 0 Chaos Shrine
 +scenic: 1837 1763 1 Circle of stones
 -point of interest: 2114 2010 0 Citadel
@@ -50,6 +53,8 @@
 -merchants guild: 873 751 1 Corpse Creek Merchant (donation)
 +moongate: 959 818 0 Corpse Creek Moongate
 +landmark: 1898 1602 1 Courthouse
++landmark: 1263 1746 0 Daemon Keep (lawless zone)
+-point of interest: 2298 3214 1 Daemon Temple
 +dungeon: 3400 3726 0 Darkmire Temple
 +island: 1038 3291 0 Deadman Isle
 -point of interest: 1289 2833 0 Desert Daemon Altar
@@ -70,6 +75,8 @@
 -point of interest: 1998 1961 0 Druid Circle
 +scenic: 858 702 1 Everflowing Blood Creek
 -point of interest: 317 1832 0 Exacvation Site
+-exit: 5504 1730 1 Exit to Northern Lands
+-exit: 5577 1738 1 Exit to Outpost
 -point of interest: 1330 2666 0 Faraonic ruins
 +caravan: 1869 1196 0 Farmlands Caravan
 +scenic: 1323 1981 1 Fishing Hut
@@ -81,8 +88,6 @@
 -point of interest: 1412 446 0 Frost Daemon Temple
 -point of interest: 1811 910 0 Gate Fortress
 +landmark: 1365 2709 1 Giant buried Pyramid
-+ruins: 1303 1721 1 Goblin abandoned house
-+landmark: 1311 1687 1 Goblin Watchtower
 -point of interest: 1092 2265 0 Grasslands of harpies
 +scenic: 1999 2160 1 Guardtower
 -point of interest: 1446 2941 0 Hidden Valley
@@ -196,8 +201,8 @@
 +caravan: 2132 3220 0 New Buccaneer's Den Caravan
 +dungeon: 1913 2566 0 Newbie Dungeon
 +dungeon: 1950 2527 1 Newbie Dungeon (entrance 2)
--point of interest: 1114 2596 0 Nomad Desert Camp
-+caravan: 1158 2618 0 Nomad Outpost Caravan
+-point of interest: 1130 2606 0 Nomad Desert Camp
++caravan: 1156 2608 0 Nomad Outpost Caravan
 -point of interest: 1076 2668 0 Nomad Training Area
 -point of interest: 2702 600 0 Norse Settlement
 +caravan: 1445 711 0 Northwest Caravan
@@ -209,7 +214,6 @@
 -point of interest: 1303 2985 0 Oasis
 -point of interest: 1560 2219 0 Ogre Valley
 +caravan: 1717 2302 0 Ogre Valley Caravan
--point of interest: 1341 1766 0 Orc Fort 1
 -point of interest: 1921 1184 0 Orc Fort 2
 -point of interest: 757 1769 0 Orc Fort 3
 -exit: 807 1824 1 Orc fort entrance
@@ -245,6 +249,7 @@
 -point of interest: 1306 1409 0 Ratman Hovel
 +ruins: 1128 1852 0 Ratman ruins
 -point of interest: 1136 1813 0 Ratman Underground Lair
+-point of interest: 1343 1764 0 Rift forces defenses
 +landmark: 1725 1389 1 Royal Ship
 -point of interest: 2312 1071 0 Ruined Cabin
 -point of interest: 1938 1013 0 Ruined House
@@ -303,6 +308,7 @@
 +teleporter: 2141 3269 1 To Hidden Valley
 +teleporter: 2804 3482 1 To Hidden Valley
 +teleporter: 3338 3715 1 To Hidden Valley
+-exit: 2007 3254 1 to Inferno
 +teleporter: 1455 2960 1 To Inferno Island
 +teleporter: 2804 3486 1 To Inferno Island
 +teleporter: 3338 3719 1 To Inferno Island
@@ -317,6 +323,7 @@
 -stairs: 1109 420 1 To Snow Fortress Dungeon
 -stairs: 1164 441 1 To Snow Fortress Dungeon
 -point of interest: 3121 3412 0 Tribal Camp
+-point of interest: 2099 3385 1 Tribal Pyramid
 -stairs: 1506 2510 1 Tunnel
 -stairs: 1502 2480 1 Tunnel
 -stairs: 1921 1063 1 Tunnel under the Orc Fort
@@ -327,6 +334,7 @@
 -point of interest: 835 1063 0 Vine-Covered Cave
 -point of interest: 2043 3236 0 Volcano 1
 -point of interest: 838 3154 0 Volcano 2
++scenic: 2216 3320 1 Watchtower
 -bridge: 1753 1168 1 Water Crossing
 -bridge: 1730 1185 1 Water Crossing
 -bridge: 1669 1206 1 Water crossing
@@ -335,7 +343,7 @@
 -bridge: 2070 986 1 Waterway crossing
 +teleporter: 1953 2636 1 Waterway to Prevalia
 +teleporter: 1642 1644 1 Waterway to Shelter Island
--arms: 1670 1519 1 Weaponsmith
+-arms: 1672 1514 0 Weaponsmith and Armourer
 -point of interest: 618 1235 0 Western Ruins
 -point of interest: 1192 1262 0 Western Ruins Brigands 1
 -point of interest: 1164 1367 0 Western Ruins Brigands 2

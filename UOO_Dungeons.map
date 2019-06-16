@@ -9,6 +9,7 @@
 -point of interest: 5926 1075 1 Air Dragons and White Wyrms Room
 -point of interest: 5939 1036 1 Air Dragons and White Wyrms Room
 +scenic: 5864 1094 1 Altar
+-other: 5468 1368 1 Boat with skelet
 -stairs: 5915 1097 1 boss
 -point of interest: 5832 909 1 Boss Behemoth Basilisk
 -point of interest: 6026 1462 1 Boss Emperor Dragon
@@ -62,6 +63,7 @@
 -point of interest: 5203 1349 1 Faction Struggle Control Point
 -point of interest: 5606 634 1 Faction Struggle Control Point
 -point of interest: 5650 695 1 Faction Struggle Control Point
+-point of interest: 5477 1362 1 Fen Daemons room
 -gate: 6002 1108 1 Gate
 -gate: 6007 1104 1 Gate
 -gate: 6007 1113 1 Gate
@@ -117,6 +119,9 @@
 +moongate: 5789 1702 1 Nusero Exit [goldengate]
 +moongate: 5828 1701 1 Nusero Exit [goldengate]
 +moongate: 5840 1728 1 Nusero Exit [goldengate]
++terrain: 6509 1603 1 Omni Realm Lair
++terrain: 6532 1370 1 Omni Realm Lair
++terrain: 6709 1450 1 Omni Realm Lair
 +scenic: 5991 502 1 Opilion altar
 +terrain: 5916 1343 1 Ossuary Dungeon
 +moongate: 5683 1279 1 Ossuary Exit [crimsongate]
@@ -141,6 +146,7 @@
 -exit: 5360 1976 1 Passage
 -exit: 5935 1604 1 Passage
 -exit: 5935 1636 1 Passage
+-exit: 5633 2780 1 Passage
 +terrain: 5173 1307 1 Pulma Dungeon
 +moongate: 5304 1336 1 Pulma Exit [crimsongate]
 +moongate: 5348 1317 1 Pulma Exit [crimsongate]
@@ -156,6 +162,7 @@
 -exit: 5567 2071 1 Sewer entrance
 -exit: 5555 2112 1 Sewer entrance
 -exit: 5579 2112 1 Sewer entrance
++terrain: 5674 2039 1 Sewer under Darkmire LVL3
 -point of interest: 5644 533 1 Skeletal Dragon
 -point of interest: 5804 1284 1 Skeleton room
 -stairs: 5610 407 1 Stairs down to LVL2
@@ -201,6 +208,7 @@
 -stairs: 6008 1152 1 Stairs up to LVL2
 -stairs: 5418 610 1 Stairs up to LVL2
 -stairs: 5767 376 1 Stairs up to LVL3
+-point of interest: 5446 1348 1 Swamp Dragon Room
 +scenic: 5916 781 1 Sword in Stone
 +teleporter: 5774 223 1 Teleporter to Aegis Keep
 +teleporter: 5881 95 1 Teleporter to cultist's altar
@@ -237,6 +245,8 @@
 -trap: 5896 2005 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5924 2016 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5953 2016 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
+-stairs: 5446 1361 1 Trespassing
+-stairs: 5479 1345 1 Trespassing
 -bridge: 5813 1563 1 Tresspassing
 -exit: 5668 2056 1 Up to LVL3
 -exit: 5690 2056 1 Up to LVL3
