@@ -1,10 +1,11 @@
 3
+-point of interest: 5752 317 1 Aegis Keep BOSS Room
 +terrain: 5942 110 1 Aegis Keep Dungeon
-+crimsongate: 5912 273 1 Aegis Keep Exit [crimsongate]
-+crimsongate: 5957 249 1 Aegis Keep Exit [crimsongate]
-+goldengate: 5899 89 1 Aegis Keep Exit [goldengate]
-+goldengate: 5954 84 1 Aegis Keep Exit [goldengate]
-+goldengate: 5987 84 1 Aegis Keep Exit [goldengate]
++moongate: 5912 273 1 Aegis Keep Exit [crimsongate]
++moongate: 5957 249 1 Aegis Keep Exit [crimsongate]
++moongate: 5899 89 1 Aegis Keep Exit [goldengate]
++moongate: 5954 84 1 Aegis Keep Exit [goldengate]
++moongate: 5987 84 1 Aegis Keep Exit [goldengate]
 -point of interest: 5926 1075 1 Air Dragons and White Wyrms Room
 -point of interest: 5939 1036 1 Air Dragons and White Wyrms Room
 +scenic: 5864 1094 1 Altar
@@ -12,7 +13,7 @@
 -point of interest: 5832 909 1 Boss Behemoth Basilisk
 -point of interest: 6026 1462 1 Boss Emperor Dragon
 -point of interest: 6047 1268 1 Boss Forgotten King
--point of interest: 5923 2423 1 Boss Infernus
+-stairs: 5923 2423 1 Boss Infernus
 -point of interest: 5204 2125 1 Boss Lord Bile
 -point of interest: 5755 3022 1 Boss Terathan Goliath
 -bridge: 5964 1107 1 Bridge
@@ -22,23 +23,23 @@
 +scenic: 5969 1052 1 Campfire
 -stairs: 5849 1618 1 Cave
 +terrain: 6011 593 1 Cavernam Dungeon
-+crimsongate: 5957 1097 1 Cavernam Exit [crimsongate]
-+crimsongate: 6011 780 1 Cavernam Exit [crimsongate]
-+crimsongate: 6039 831 1 Cavernam Exit [crimsongate]
-+crimsongate: 6059 1020 1 Cavernam Exit [crimsongate]
-+goldengate: 6049 598 1 Cavernam Exit [goldengate]
-+goldengate: 6058 571 1 Cavernam Exit [goldengate]
-+goldengate: 6058 641 1 Cavernam Exit [goldengate]
-+goldengate: 6090 619 1 Cavernam Exit [goldengate]
++moongate: 5957 1097 1 Cavernam Exit [crimsongate]
++moongate: 6011 780 1 Cavernam Exit [crimsongate]
++moongate: 6039 831 1 Cavernam Exit [crimsongate]
++moongate: 6059 1020 1 Cavernam Exit [crimsongate]
++moongate: 6049 598 1 Cavernam Exit [goldengate]
++moongate: 6058 571 1 Cavernam Exit [goldengate]
++moongate: 6058 641 1 Cavernam Exit [goldengate]
++moongate: 6090 619 1 Cavernam Exit [goldengate]
 -point of interest: 5505 653 1 Crypt
 +terrain: 5226 1998 1 Darkmire Dungeon
-+crimsongate: 5331 2014 1 Darkmire Exit [crimsongate]
-+crimsongate: 5381 2086 1 Darkmire Exit [crimsongate]
-+crimsongate: 5558 2144 1 Darkmire Exit [crimsongate]
-+goldengate: 5179 1963 1 Darkmire Exit [goldengate]
-+goldengate: 5180 2006 1 Darkmire Exit [goldengate]
-+goldengate: 5203 1923 1 Darkmire Exit [goldengate]
-+goldengate: 5216 1955 1 Darkmire Exit [goldengate]
++moongate: 5331 2014 1 Darkmire Exit [crimsongate]
++moongate: 5381 2086 1 Darkmire Exit [crimsongate]
++moongate: 5558 2144 1 Darkmire Exit [crimsongate]
++moongate: 5179 1963 1 Darkmire Exit [goldengate]
++moongate: 5180 2006 1 Darkmire Exit [goldengate]
++moongate: 5203 1923 1 Darkmire Exit [goldengate]
++moongate: 5216 1955 1 Darkmire Exit [goldengate]
 +scenic: 5998 1054 1 Destroyed mine entrance
 -stairs: 5958 223 1 Entrance to Boss Room
 -stairs: 5157 1377 1 Exit to surface
@@ -52,6 +53,11 @@
 -stairs: 5927 1317 1 Exit to surface
 -stairs: 5941 54 1 Exit to surface
 -stairs: 6106 610 1 Exit to surface
+-stairs: 5567 819 1 Exit to Surface
+-stairs: 5621 841 1 Exit to Surface
+-stairs: 5513 850 1 Exit to Surface
+-stairs: 5579 854 1 Exit to Surface
+-stairs: 5556 901 1 Exit to Surface
 -point of interest: 5168 1259 1 Faction Struggle Control Point
 -point of interest: 5203 1349 1 Faction Struggle Control Point
 -point of interest: 5606 634 1 Faction Struggle Control Point
@@ -66,24 +72,28 @@
 -bridge: 5976 1023 1 Ice bridge
 -bridge: 5991 1013 1 Ice bridge
 -bridge: 6058 1008 1 Ice bridge
+-point of interest: 5791 2194 1 Inferno Boss Infernus
 +terrain: 5892 2028 1 Inferno Dungeon
-+crimsongate: 5538 2361 1 Inferno Exit [crimsongate]
-+crimsongate: 5623 2493 1 Inferno Exit [crimsongate]
-+crimsongate: 5764 2498 1 Inferno Exit [crimsongate]
-+crimsongate: 5820 2321 1 Inferno Exit [crimsongate]
-+goldengate: 5892 2057 1 Inferno Exit [goldengate]
-+goldengate: 5938 2068 1 Inferno Exit [goldengate]
-+goldengate: 5959 1977 1 Inferno Exit [goldengate]
++moongate: 5538 2361 1 Inferno Exit [crimsongate]
++moongate: 5623 2493 1 Inferno Exit [crimsongate]
++moongate: 5764 2498 1 Inferno Exit [crimsongate]
++moongate: 5820 2321 1 Inferno Exit [crimsongate]
++moongate: 5892 2057 1 Inferno Exit [goldengate]
++moongate: 5938 2068 1 Inferno Exit [goldengate]
++moongate: 5959 1977 1 Inferno Exit [goldengate]
+-point of interest: 5906 2215 1 Inferno Mini-Boss Heart of the Mountain
 +scenic: 5853 1095 1 Knightly Tomb
-+crimsongate: 5245 690 1 Mausoleum Exit [crimsongate]
-+crimsongate: 5370 749 1 Mausoleum Exit [crimsongate]
-+crimsongate: 5497 744 1 Mausoleum Exit [crimsongate]
-+goldengate: 5588 717 1 Mausoleum Exit [goldengate]
-+goldengate: 5618 723 1 Mausoleum Exit [goldengate]
-+goldengate: 5626 689 1 Mausoleum Exit [goldengate]
+-point of interest: 5242 814 1 Mausoleum BOSS
++moongate: 5245 690 1 Mausoleum Exit [crimsongate]
++moongate: 5370 749 1 Mausoleum Exit [crimsongate]
++moongate: 5497 744 1 Mausoleum Exit [crimsongate]
++moongate: 5204 679 1 Mausoleum Exit [crimsongate]
++moongate: 5588 717 1 Mausoleum Exit [goldengate]
++moongate: 5618 723 1 Mausoleum Exit [goldengate]
++moongate: 5626 689 1 Mausoleum Exit [goldengate]
 -point of interest: 5986 938 1 Mini-Boss Abyssal Crag Daemon
 -point of interest: 5434 1206 1 Mini-Boss Ancient Drowned Dragon
--point of interest: 5640 2266 1 Mini-Boss Heart of the Mountain
+-stairs: 5640 2266 1 Mini-Boss Heart of the Mountain
 -point of interest: 5760 2784 1 Mini-Boss Lodestone
 -point of interest: 5723 1605 1 Mini-Boss Pit Dragon
 -point of interest: 5967 379 1 Mini-Boss Sanguineous
@@ -91,28 +101,29 @@
 -point of interest: 5505 2096 1 Mini-Boss Terrorwood
 -point of interest: 5243 593 1 Mini-Boss The Insatiable Maw
 +terrain: 5570 2781 1 Mount Petram Dungeon
-+crimsongate: 5639 2888 1 Mount Petram Exit [crimsongate]
-+crimsongate: 5690 2885 1 Mount Petram Exit [crimsongate]
-+goldengate: 5602 2768 1 Mount Petram Exit [goldengate]
-+goldengate: 5610 2800 1 Mount Petram Exit [goldengate]
-+goldengate: 5627 2784 1 Mount Petram Exit [goldengate]
-+goldengate: 5635 2819 1 Mount Petram Exit [goldengate]
++moongate: 5639 2888 1 Mount Petram Exit [crimsongate]
++moongate: 5690 2885 1 Mount Petram Exit [crimsongate]
++moongate: 5602 2768 1 Mount Petram Exit [goldengate]
++moongate: 5610 2800 1 Mount Petram Exit [goldengate]
++moongate: 5627 2784 1 Mount Petram Exit [goldengate]
++moongate: 5635 2819 1 Mount Petram Exit [goldengate]
 +terrain: 5544 440 1 Newbie Dungeon
-+crimsongate: 5601 517 1 Newbie Exit [crimsongate]
-+goldengate: 5541 524 1 Newbie Exit [goldengate]
++moongate: 5601 517 1 Newbie Exit [crimsongate]
++moongate: 5541 524 1 Newbie Exit [goldengate]
 +terrain: 5814 1730 1 Nusero Dungeon
-+crimsongate: 5832 1556 1 Nusero Exit [crimsongate]
-+crimsongate: 5967 1679 1 Nusero Exit [crimsongate]
-+goldengate: 5789 1702 1 Nusero Exit [goldengate]
-+goldengate: 5828 1701 1 Nusero Exit [goldengate]
-+goldengate: 5840 1728 1 Nusero Exit [goldengate]
++moongate: 6000 1672 1 Nusero Exit [crimsongate]
++moongate: 5832 1556 1 Nusero Exit [crimsongate]
++moongate: 5967 1679 1 Nusero Exit [crimsongate]
++moongate: 5789 1702 1 Nusero Exit [goldengate]
++moongate: 5828 1701 1 Nusero Exit [goldengate]
++moongate: 5840 1728 1 Nusero Exit [goldengate]
 +scenic: 5991 502 1 Opilion altar
 +terrain: 5916 1343 1 Ossuary Dungeon
-+crimsongate: 5683 1279 1 Ossuary Exit [crimsongate]
-+crimsongate: 5724 1333 1 Ossuary Exit [crimsongate]
-+goldengate: 5870 1310 1 Ossuary Exit [goldengate]
-+goldengate: 5926 1326 1 Ossuary Exit [goldengate]
-+goldengate: 5926 1351 1 Ossuary Exit [goldengate]
++moongate: 5683 1279 1 Ossuary Exit [crimsongate]
++moongate: 5724 1333 1 Ossuary Exit [crimsongate]
++moongate: 5870 1310 1 Ossuary Exit [goldengate]
++moongate: 5926 1326 1 Ossuary Exit [goldengate]
++moongate: 5926 1351 1 Ossuary Exit [goldengate]
 -trap: 5731 1024 1 Owen (MAPMAKER) (tier 3) (8 gp  10 hp  1-2 dmg)
 -bridge: 5654 1329 1 Passage
 -bridge: 5668 1294 1 Passage
@@ -123,16 +134,30 @@
 -exit: 6017 670 1 Passage
 -exit: 6018 652 1 Passage
 -exit: 5632 2794 1 Passage
+-exit: 5918 86 1 Passage
+-exit: 5918 107 1 Passage
+-exit: 5403 2017 1 Passage
+-exit: 5400 1957 1 Passage
+-exit: 5360 1976 1 Passage
+-exit: 5935 1604 1 Passage
+-exit: 5935 1636 1 Passage
 +terrain: 5173 1307 1 Pulma Dungeon
-+crimsongate: 5304 1336 1 Pulma Exit [crimsongate]
-+crimsongate: 5348 1317 1 Pulma Exit [crimsongate]
-+crimsongate: 5429 1269 1 Pulma Exit [crimsongate]
-+goldengate: 5166 1328 1 Pulma Exit [goldengate]
-+goldengate: 5195 1351 1 Pulma Exit [goldengate]
-+goldengate: 5217 1302 1 Pulma Exit [goldengate]
++moongate: 5304 1336 1 Pulma Exit [crimsongate]
++moongate: 5348 1317 1 Pulma Exit [crimsongate]
++moongate: 5429 1269 1 Pulma Exit [crimsongate]
++moongate: 5166 1328 1 Pulma Exit [goldengate]
++moongate: 5195 1351 1 Pulma Exit [goldengate]
++moongate: 5217 1302 1 Pulma Exit [goldengate]
+-exit: 5586 646 1 Secret passage
+-exit: 5380 650 1 Secret passage
+-exit: 5477 652 1 Secret passage
+-exit: 5376 746 1 Secret passage
+-exit: 5608 1278 1 Secret passage
+-exit: 5567 2071 1 Sewer entrance
+-exit: 5555 2112 1 Sewer entrance
+-exit: 5579 2112 1 Sewer entrance
 -point of interest: 5644 533 1 Skeletal Dragon
 -point of interest: 5804 1284 1 Skeleton room
--stairs: 5886 246 1 Stairs down (LVL2)
 -stairs: 5610 407 1 Stairs down to LVL2
 -stairs: 5211 1249 1 Stairs down to LVL2
 -stairs: 5251 1959 1 Stairs down to LVL2
@@ -152,6 +177,7 @@
 -stairs: 5876 240 1 Stairs down to LVL3
 -stairs: 5942 1498 1 Stairs down to LVL3
 -stairs: 5979 765 1 Stairs down to LVL3
+-stairs: 5886 246 1 Stairs still on LVL2
 -stairs: 5898 1996 1 Stairs to LVL2
 -stairs: 5329 1416 1 Stairs up to LVL1
 -stairs: 5349 2075 1 Stairs up to LVL1
@@ -164,6 +190,7 @@
 -stairs: 5886 340 1 Stairs up to LVL1
 -stairs: 6041 785 1 Stairs up to LVL1
 -stairs: 5608 431 1 Stairs up to LVL1
+-stairs: 5604 531 1 Stairs up to LVL1
 -stairs: 5200 737 1 Stairs up to LVL2
 -stairs: 5426 1349 1 Stairs up to LVL2
 -stairs: 5566 2152 1 Stairs up to LVL2
@@ -172,6 +199,8 @@
 -stairs: 5933 1771 1 Stairs up to LVL2
 -stairs: 5977 338 1 Stairs up to LVL2
 -stairs: 6008 1152 1 Stairs up to LVL2
+-stairs: 5418 610 1 Stairs up to LVL2
+-stairs: 5767 376 1 Stairs up to LVL3
 +scenic: 5916 781 1 Sword in Stone
 +teleporter: 5774 223 1 Teleporter to Aegis Keep
 +teleporter: 5881 95 1 Teleporter to cultist's altar
@@ -183,6 +212,9 @@
 -stairs: 5940 985 1 to Boss room
 -stairs: 6008 1587 1 to Boss room
 -stairs: 5671 1224 1 to Dragon Caverns and Mini-Boss
+-stairs: 5929 289 1 to LVL2
+-stairs: 5904 2252 1 to LVL2
+-stairs: 5790 2248 1 to LVL2
 -stairs: 5162 1497 1 to LVL3
 -stairs: 5205 2191 1 to LVL3
 -stairs: 5686 3092 1 to LVL3
@@ -192,7 +224,10 @@
 -stairs: 5874 1095 1 to LVL3
 -stairs: 5991 1290 1 to LVL3
 -stairs: 6027 1542 1 to LVL3
+-stairs: 5169 848 1 to LVL3
 -stairs: 5958 1705 1 to Mini-Boss room
+-stairs: 5850 284 1 To Side Room
+-stairs: 5510 648 1 to Side Room
 -trap: 5421 1976 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5421 1993 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5428 1976 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
@@ -203,5 +238,8 @@
 -trap: 5924 2016 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -trap: 5953 2016 1 TRAP (TRAP) (tier 1) (4 gp  0 hp  0-0 dmg)
 -bridge: 5813 1563 1 Tresspassing
+-exit: 5668 2056 1 Up to LVL3
+-exit: 5690 2056 1 Up to LVL3
+-exit: 5678 2012 1 Up to LVL3
 +scenic: 5945 1000 1 Waterfall
 -point of interest: 5985 1100 1 Winterweed room

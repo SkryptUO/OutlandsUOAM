@@ -34,6 +34,10 @@
 +scenic: 1461 2448 0 Cathedral
 -point of interest: 1210 2067 0 Cathedral Ruins
 -point of interest: 1130 2097 0 Cathedral St Francis
+-stairs: 993 561 1 Cave tunnel
+-stairs: 997 491 1 Cave tunnel
+-stairs: 1922 2587 1 Cave tunnel
+-stairs: 1726 2586 1 Cave tunnel
 +dungeon: 2726 374 0 Cavernam
 +shrine: 848 549 0 Chaos Shrine
 +scenic: 1837 1763 1 Circle of stones
@@ -46,8 +50,6 @@
 -merchants guild: 873 751 1 Corpse Creek Merchant (donation)
 +moongate: 959 818 0 Corpse Creek Moongate
 +landmark: 1898 1602 1 Courthouse
-+crimsongate: 6000 1672 1 cr
--point of interest: 1695 1839 1 Crypt
 +dungeon: 3400 3726 0 Darkmire Temple
 +island: 1038 3291 0 Deadman Isle
 -point of interest: 1289 2833 0 Desert Daemon Altar
@@ -75,12 +77,12 @@
 +scenic: 1261 1983 1 Fishing Hut
 +scenic: 687 531 1 Flower grove
 -point of interest: 1909 1910 0 Forsaken Keep
--other: 1225 1820 1 Fortification
++landmark: 1225 1820 1 Fortification
 -point of interest: 1412 446 0 Frost Daemon Temple
 -point of interest: 1811 910 0 Gate Fortress
 +landmark: 1365 2709 1 Giant buried Pyramid
 +ruins: 1303 1721 1 Goblin abandoned house
--other: 1311 1687 1 Goblin Watchtower
++landmark: 1311 1687 1 Goblin Watchtower
 -point of interest: 1092 2265 0 Grasslands of harpies
 +scenic: 1999 2160 1 Guardtower
 -point of interest: 1446 2941 0 Hidden Valley
@@ -93,71 +95,71 @@
 +graveyard: 2110 2170 0 Horseshoe Bay Cemetery
 +moongate: 2025 2077 0 Horseshoe Bay Moongate
 +caravan: 2229 2240 0 Horseshoe Bay Swamps Caravan
--houseboat: 1045 2700 1 House Boat (East)
--houseboat: 1056 1827 1 House Boat (East)
--houseboat: 1092 1152 1 House Boat (East)
--houseboat: 1107 1078 1 House Boat (East)
--houseboat: 1109 2407 1 House Boat (East)
--houseboat: 1115 1533 1 House Boat (East)
--houseboat: 1171 636 1 House Boat (East)
--houseboat: 1180 1430 1 House Boat (East)
--houseboat: 1233 2173 1 House Boat (East)
--houseboat: 1314 2001 1 House Boat (East)
--houseboat: 1440 1550 1 House Boat (East)
--houseboat: 1453 892 1 House Boat (East)
--houseboat: 1692 881 1 House Boat (East)
--houseboat: 1856 2319 1 House Boat (East)
--houseboat: 2076 3450 1 House Boat (East)
--houseboat: 2088 1171 1 House Boat (East)
--houseboat: 2182 2665 1 House Boat (East)
--houseboat: 2222 3490 1 House Boat (East)
--houseboat: 2234 493 1 House Boat (East)
--houseboat: 2257 1281 1 House Boat (East)
--houseboat: 2275 1151 1 House Boat (East)
--houseboat: 230 1748 1 House Boat (East)
--houseboat: 2829 3314 1 House Boat (East)
--houseboat: 430 875 1 House Boat (East)
--houseboat: 586 750 1 House Boat (East)
--houseboat: 708 3171 1 House Boat (East)
--houseboat: 815 935 1 House Boat (East)
--houseboat: 894 2822 1 House Boat (East)
--houseboat: 940 1720 1 House Boat (East)
--houseboat: 941 1970 1 House Boat (East)
--houseboat: 949 508 1 House Boat (East)
--houseboat: 1007 1565 1 House Boat (South)
--houseboat: 1042 1327 1 House Boat (South)
--houseboat: 1115 2536 1 House Boat (South)
--houseboat: 1164 332 1 House Boat (South)
--houseboat: 1214 2133 1 House Boat (South)
--houseboat: 1267 807 1 House Boat (South)
--houseboat: 1307 565 1 House Boat (South)
--houseboat: 1428 386 1 House Boat (South)
--houseboat: 1445 1610 1 House Boat (South)
--houseboat: 1604 509 1 House Boat (South)
--houseboat: 1729 980 1 House Boat (South)
--houseboat: 1753 1680 1 House Boat (South)
--houseboat: 1889 514 1 House Boat (South)
--houseboat: 2001 426 1 House Boat (South)
--houseboat: 2109 2138 1 House Boat (South)
--houseboat: 2172 3135 1 House Boat (South)
--houseboat: 2276 903 1 House Boat (South)
--houseboat: 2327 3229 1 House Boat (South)
--houseboat: 2398 988 1 House Boat (South)
--houseboat: 2415 3019 1 House Boat (South)
--houseboat: 2500 1022 1 House Boat (South)
--houseboat: 2649 3328 1 House Boat (South)
--houseboat: 2705 448 1 House Boat (South)
--houseboat: 2752 333 1 House Boat (South)
--houseboat: 3057 413 1 House Boat (South)
--houseboat: 3060 3403 1 House Boat (South)
--houseboat: 3370 3682 1 House Boat (South)
--houseboat: 618 554 1 House Boat (South)
--houseboat: 670 816 1 House Boat (South)
--houseboat: 692 466 1 House Boat (South)
--houseboat: 760 1000 1 House Boat (South)
--houseboat: 768 1703 1 House Boat (South)
--houseboat: 908 2230 1 House Boat (South)
--houseboat: 988 1068 1 House Boat (South)
+-ship: 1045 2700 1 House Boat (East)
+-ship: 1056 1827 1 House Boat (East)
+-ship: 1092 1152 1 House Boat (East)
+-ship: 1107 1078 1 House Boat (East)
+-ship: 1109 2407 1 House Boat (East)
+-ship: 1115 1533 1 House Boat (East)
+-ship: 1171 636 1 House Boat (East)
+-ship: 1180 1430 1 House Boat (East)
+-ship: 1233 2173 1 House Boat (East)
+-ship: 1314 2001 1 House Boat (East)
+-ship: 1440 1550 1 House Boat (East)
+-ship: 1453 892 1 House Boat (East)
+-ship: 1692 881 1 House Boat (East)
+-ship: 1856 2319 1 House Boat (East)
+-ship: 2076 3450 1 House Boat (East)
+-ship: 2088 1171 1 House Boat (East)
+-ship: 2182 2665 1 House Boat (East)
+-ship: 2222 3490 1 House Boat (East)
+-ship: 2234 493 1 House Boat (East)
+-ship: 2257 1281 1 House Boat (East)
+-ship: 2275 1151 1 House Boat (East)
+-ship: 230 1748 1 House Boat (East)
+-ship: 2829 3314 1 House Boat (East)
+-ship: 430 875 1 House Boat (East)
+-ship: 586 750 1 House Boat (East)
+-ship: 708 3171 1 House Boat (East)
+-ship: 815 935 1 House Boat (East)
+-ship: 894 2822 1 House Boat (East)
+-ship: 940 1720 1 House Boat (East)
+-ship: 941 1970 1 House Boat (East)
+-ship: 949 508 1 House Boat (East)
+-ship: 1007 1565 1 House Boat (South)
+-ship: 1042 1327 1 House Boat (South)
+-ship: 1115 2536 1 House Boat (South)
+-ship: 1164 332 1 House Boat (South)
+-ship: 1214 2133 1 House Boat (South)
+-ship: 1267 807 1 House Boat (South)
+-ship: 1307 565 1 House Boat (South)
+-ship: 1428 386 1 House Boat (South)
+-ship: 1445 1610 1 House Boat (South)
+-ship: 1604 509 1 House Boat (South)
+-ship: 1729 980 1 House Boat (South)
+-ship: 1753 1680 1 House Boat (South)
+-ship: 1889 514 1 House Boat (South)
+-ship: 2001 426 1 House Boat (South)
+-ship: 2109 2138 1 House Boat (South)
+-ship: 2172 3135 1 House Boat (South)
+-ship: 2276 903 1 House Boat (South)
+-ship: 2327 3229 1 House Boat (South)
+-ship: 2398 988 1 House Boat (South)
+-ship: 2415 3019 1 House Boat (South)
+-ship: 2500 1022 1 House Boat (South)
+-ship: 2649 3328 1 House Boat (South)
+-ship: 2705 448 1 House Boat (South)
+-ship: 2752 333 1 House Boat (South)
+-ship: 3057 413 1 House Boat (South)
+-ship: 3060 3403 1 House Boat (South)
+-ship: 3370 3682 1 House Boat (South)
+-ship: 618 554 1 House Boat (South)
+-ship: 670 816 1 House Boat (South)
+-ship: 692 466 1 House Boat (South)
+-ship: 760 1000 1 House Boat (South)
+-ship: 768 1703 1 House Boat (South)
+-ship: 908 2230 1 House Boat (South)
+-ship: 988 1068 1 House Boat (South)
 +shrine: 1259 2283 0 Humility Shrine
 -point of interest: 1342 2274 0 Humility Swamps
 -point of interest: 1262 961 0 Hunter's Blind 1
@@ -177,9 +179,17 @@
 +caravan: 1632 1987 0 Midlands Caravan
 -point of interest: 1709 1894 1 Midlands Ruins 1
 +ruins: 1331 1829 0 Midlands Ruins 2
+-exit: 445 2022 1 Mining cave
+-exit: 437 2022 1 Mining cave
 -point of interest: 988 1728 0 Morthuna
 +dungeon: 733 769 0 Mount Petram
 -point of interest: 1343 2039 0 Mountain Meeting Spot
+-bridge: 511 1958 1 Mountain pass
+-bridge: 543 2056 1 Mountain pass
+-bridge: 500 2043 1 Mountain pass
+-bridge: 332 1973 1 Mountain pass
+-bridge: 327 1983 1 Mountain pass
+-bridge: 301 2119 1 Mountain pass
 -point of interest: 473 832 0 Necromancer's Cathedral
 -point of interest: 1861 783 0 Necromancer's Lair
 -point of interest: 1888 770 0 Necromancer's Swamp
@@ -202,11 +212,14 @@
 -point of interest: 1341 1766 0 Orc Fort 1
 -point of interest: 1921 1184 0 Orc Fort 2
 -point of interest: 757 1769 0 Orc Fort 3
+-exit: 807 1824 1 Orc fort entrance
 +dungeon: 1209 2816 0 Ossuary
 +town: 3047 560 0 Outpost
 +moongate: 2974 611 0 Outpost Moongate
 +caravan: 2800 562 0 Outpost Passage Caravan
 -point of interest: 2151 1158 0 Owen's Cabin
+-stairs: 1425 2870 1 Passage
+-stairs: 1434 2916 1 Passage
 -point of interest: 989 1106 0 Pool Of Power
 +town: 1616 1524 0 Prevalia
 -point of interest: 1477 1700 0 Prevalia Bog
@@ -241,15 +254,22 @@
 -point of interest: 1693 576 1 Ruined Snow Fortress
 +ruins: 2346 2644 1 Ruins
 +ruins: 1090 1793 1 Ruins
++ruins: 467 1991 1 Ruins
 -point of interest: 689 935 0 Ruins on Island 1
 -point of interest: 586 895 0 Ruins on Island 2
--point of interest: 1397 1913 0 Sacred Pools and Ruins (Terathan Fort)
+-point of interest: 1397 1913 0 Sacred Pools and Ruins
 -point of interest: 1255 2487 0 Sacred Waters
 +shrine: 2442 3275 0 Sacrifice Shrine
 -point of interest: 2046 1854 0 Sacrificial Cliffs
 -point of interest: 2022 990 0 Sandbar
 -point of interest: 2364 3068 0 Savage Fort
 -point of interest: 1316 2915 0 Savannah and Wattering Hole
+-stairs: 1128 1803 1 Secret passage
+-stairs: 2247 551 1 Secret passage
+-stairs: 2243 494 1 Secret passage
+-stairs: 3061 502 1 Secret passage
+-stairs: 984 1915 1 Secret passage
+-stairs: 989 1892 1 Secret passage
 +town: 1613 2583 1 Shelter Haven
 +caravan: 1601 2567 0 Shelter Haven Caravan
 +town: 1954 2613 0 Shelter Island
@@ -260,6 +280,7 @@
 -point of interest: 1481 2148 0 Signal Fort 1
 -point of interest: 1470 1952 0 Signal Fort 2
 -point of interest: 1164 742 0 Simple Palisade Fort
+-other: 735 1859 1 Small fishing cottage
 -point of interest: 1133 1005 0 Smuggler's Den
 -point of interest: 1637 613 0 Snow Caves
 -point of interest: 1150 454 0 Snow Fortress
@@ -276,7 +297,30 @@
 -point of interest: 2300 3500 0 Terathan Point
 +town: 735 1507 0 Terran
 +moongate: 865 1570 0 Terran Moongate        
++teleporter: 1459 2956 1 To Darkmire Island
++teleporter: 2145 3269 1 To Darkmire Island
++teleporter: 2808 3482 1 To Darkmire Island
++teleporter: 2141 3269 1 To Hidden Valley
++teleporter: 2804 3482 1 To Hidden Valley
++teleporter: 3338 3715 1 To Hidden Valley
++teleporter: 1455 2960 1 To Inferno Island
++teleporter: 2804 3486 1 To Inferno Island
++teleporter: 3338 3719 1 To Inferno Island
++teleporter: 1459 2960 1 To Jungle Baths Island
++teleporter: 2145 3273 1 To Jungle Baths Island
++teleporter: 3342 3719 1 To Jungle Baths Island
+-stairs: 981 1790 1 to Mainland
+-stairs: 1087 1791 1 To Morthuna
+-stairs: 1053 453 1 To Snow Fortress Dungeon
+-stairs: 1096 503 1 To Snow Fortress Dungeon
+-stairs: 1119 454 1 To Snow Fortress Dungeon
+-stairs: 1109 420 1 To Snow Fortress Dungeon
+-stairs: 1164 441 1 To Snow Fortress Dungeon
 -point of interest: 3121 3412 0 Tribal Camp
+-stairs: 1506 2510 1 Tunnel
+-stairs: 1502 2480 1 Tunnel
+-stairs: 1921 1063 1 Tunnel under the Orc Fort
+-stairs: 1919 1206 1 Tunnel under the Orc Fort
 -point of interest: 1007 2222 0 Umbermare fortified village
 +dungeon: 1914 1137 0 Urukton Bluffs
 +shrine: 1167 1494 0 Valor Shrine
@@ -289,6 +333,8 @@
 +scenic: 1488 2982 1 Waterfall
 +scenic: 840 620 1 Waterfall
 -bridge: 2070 986 1 Waterway crossing
++teleporter: 1953 2636 1 Waterway to Prevalia
++teleporter: 1642 1644 1 Waterway to Shelter Island
 -arms: 1670 1519 1 Weaponsmith
 -point of interest: 618 1235 0 Western Ruins
 -point of interest: 1192 1262 0 Western Ruins Brigands 1
