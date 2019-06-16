@@ -47,6 +47,7 @@
 +moongate: 959 818 0 Corpse Creek Moongate
 +landmark: 1898 1602 1 Courthouse
 +crimsongate: 6000 1672 1 cr
+-point of interest: 1695 1839 1 Crypt
 +dungeon: 3400 3726 0 Darkmire Temple
 +island: 1038 3291 0 Deadman Isle
 -point of interest: 1289 2833 0 Desert Daemon Altar
@@ -242,7 +243,7 @@
 +ruins: 1090 1793 1 Ruins
 -point of interest: 689 935 0 Ruins on Island 1
 -point of interest: 586 895 0 Ruins on Island 2
--point of interest: 1397 1913 0 Sacred Pools and Ruins
+-point of interest: 1397 1913 0 Sacred Pools and Ruins (Terathan Fort)
 -point of interest: 1255 2487 0 Sacred Waters
 +shrine: 2442 3275 0 Sacrifice Shrine
 -point of interest: 2046 1854 0 Sacrificial Cliffs
